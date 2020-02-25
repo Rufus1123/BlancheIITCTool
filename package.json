@@ -1,0 +1,16 @@
+{
+  "name": "BlacheIITCTool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ml-knn": "^3.0.0",
+    "point-in-polygon": "^1.0.1",
+    "xml-js": "^1.6.11"
+  }
+}
