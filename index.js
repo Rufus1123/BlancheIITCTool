@@ -9,7 +9,7 @@ const DelftBounds = {
     max_lon: 4.4475827
 };
 
-var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2020-02-11"; 
+var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2020-06-11.json"; 
 var ingressLocations = require(iitcFile);
 var blancheStops = require('./data/Pokestops.json');
 var blancheGyms = require('./data/Gyms.json');
