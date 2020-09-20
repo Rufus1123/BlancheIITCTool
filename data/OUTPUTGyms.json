@@ -1,0 +1,6050 @@
+[
+	{
+		"keys": [
+			"stier",
+			"de stier",
+			"'de s"
+		],
+		"name": "'De Stier'",
+		"region": "Centrum",
+		"lat": 52.011441,
+		"lon": 4.362554,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "6f9b69b0c58c4bf19f563debe107f4ce.12"
+	},
+	{
+		"keys": [
+			"schrobbel",
+			"schrobel"
+		],
+		"name": "Schrobbelaar Speelplek",
+		"region": "Hof van Delft",
+		"lat": 52.003446,
+		"lon": 4.349269,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-08-03",
+		"guid": "773db44cb605411284f41916cffe21e5.16"
+	},
+	{
+		"keys": [
+			"geel m"
+		],
+		"name": "Geel Met Rode Glijbaan",
+		"region": "Voordijkshoorn",
+		"lat": 52.009069,
+		"lon": 4.328232,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-08-06",
+		"guid": "df72df978b03426190bb1526a640c152.16"
+	},
+	{
+		"keys": [
+			"in bloei"
+		],
+		"name": "In Bloei",
+		"region": "TU Wijk",
+		"lat": 52.006885,
+		"lon": 4.378219,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-08-03",
+		"guid": "dbbdd20987b94368ad2e78af7ff7bc20.16"
+	},
+	{
+		"keys": [
+			"amazing l",
+			"amazingsacha"
+		],
+		"name": "amazing library",
+		"region": "Hof van Delft",
+		"lat": 52.010779,
+		"lon": 4.348736,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-06-09",
+		"guid": "a5db441af2af409a8654e99d97bfa073.16"
+	},
+	{
+		"keys": [
+			"speelveld"
+		],
+		"name": "Speelveld",
+		"region": "Delfgauw",
+		"lat": 52.0043,
+		"lon": 4.396201,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-06-04",
+		"guid": "3b8717ae248b4b7c8f89a49aef8bcabf.16"
+	},
+	{
+		"keys": [
+			"houten brug"
+		],
+		"name": "Houten Brug",
+		"region": "Tanthof Oost",
+		"lat": 51.971719,
+		"lon": 4.362118,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-05-28",
+		"guid": "661d9dbbf807400fbf167de8330c151c.16"
+	},
+	{
+		"keys": [
+			"top schipluiden"
+		],
+		"name": "TOP Schipluiden",
+		"region": "Schipluiden",
+		"lat": 51.983379,
+		"lon": 4.326444,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-04-29",
+		"guid": "1eb0e5414eb84c87b50b7c820139c3c6.16"
+	},
+	{
+		"keys": [
+			"faculty of c",
+			"civil engine",
+			"foceag",
+			"fceg"
+		],
+		"name": "Faculty Of Civil Engineering And Geosciences",
+		"region": "TU Wijk",
+		"lat": 51.99983,
+		"lon": 4.374685,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-04-24",
+		"guid": "3ff8299531c64083bc1181c1e57efcdf.16"
+	},
+	{
+		"keys": [
+			"wandelroutenetwerk knooppunt 21",
+			"wandelroute netwerk knooppunt 21",
+			"wandelknooppunt 21",
+			"knooppunt 21",
+			"knoopunt 21",
+			"wandelroutenetwerk"
+		],
+		"name": "Wandelroutenetwerk knooppunt 21",
+		"region": "Tanthof Oost",
+		"lat": 51.974915,
+		"lon": 4.376369,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-04-22",
+		"guid": "56af0e50351c492d889718c8525d88c7.16"
+	},
+	{
+		"keys": [
+			"vaarnetwerk t",
+			"vaarnetwerk"
+		],
+		"name": "Vaarnetwerk tussen 8 en 9",
+		"region": "Schipluiden",
+		"lat": 51.980349,
+		"lon": 4.317518,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-04-16",
+		"guid": "27ac58b39b424bc7bcdd19e3d51a0930.16"
+	},
+	{
+		"keys": [
+			"midden delfland"
+		],
+		"name": "Midden Delfland",
+		"region": "Het Woudt",
+		"lat": 51.9862,
+		"lon": 4.290776,
+		"description": 0,
+		"park": 0,
+		"problem": 0
+	},
+	{
+		"keys": [
+			"de balij",
+			"de balij en het"
+		],
+		"name": "De Balij En Het Bieslandse Bos",
+		"region": "Pijnacker",
+		"lat": 52.030216,
+		"lon": 4.418596,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "a8b85bda39be49539f2d7e4f927d0cea.16"
+	},
+	{
+		"keys": [
+			"alle kanten op"
+		],
+		"name": "Alle Kanten op In Midden Delfland",
+		"region": "Tanthof Oost",
+		"lat": 51.982529,
+		"lon": 4.376925,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-04-09",
+		"guid": "92f95658022e45678768810fe1c40084.16"
+	},
+	{
+		"keys": [
+			"speeltuin"
+		],
+		"name": "Speeltuin",
+		"region": "Voorhof",
+		"lat": 51.994958,
+		"lon": 4.357857,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2020-04-02",
+		"guid": "33aea3cea0bd40b3aed61c56db944054.16"
+	},
+	{
+		"keys": [
+			"sple",
+			"speeltuin"
+		],
+		"name": "Spleeltuin",
+		"region": "Voorhof",
+		"lat": 52.003071,
+		"lon": 4.360586,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2020-03-20",
+		"guid": "fb68240eeba64f57bdc10663724a5f80.16"
+	},
+	{
+		"keys": [
+			"rust en r"
+		],
+		"name": "Rust en Ruimte",
+		"region": "Bieslandse Bos",
+		"lat": 52.019938,
+		"lon": 4.390616,
+		"description": 0,
+		"problem": 0,
+		"park": 0,
+		"guid": "b3400b123db54edb9eded49e44f8c419.16"
+	},
+	{
+		"keys": [
+			"evertslaan p",
+			"evertslaan playground 2"
+		],
+		"name": "Evertslaan Playground 2",
+		"region": "TU Wijk",
+		"lat": 52.003836,
+		"lon": 4.382617,
+		"description": 0,
+		"problem": 0,
+		"park": 0,
+		"dateAdded": "2020-03-02",
+		"guid": "9aa3ea36e0d344a1ac0540563d2443d1.16"
+	},
+	{
+		"keys": [
+			"lauren"
+		],
+		"name": "Laurentius Praktijkschool",
+		"region": "Hof van Delft",
+		"lat": 52.012797,
+		"lon": 4.343202,
+		"description": "Bestaat niet meer",
+		"problem": 2,
+		"park": 0,
+		"dateAdded": "2019-12-20",
+		"guid": "dab45e8369d149f282ece7e86dc7f661.16"
+	},
+	{
+		"keys": [
+			"klim a"
+		],
+		"name": "Klim Ahoy!",
+		"region": "Schipluiden",
+		"lat": 51.978122,
+		"lon": 4.311635,
+		"description": 0,
+		"problem": 0,
+		"park": 0,
+		"dateAdded": "2020-01-26",
+		"guid": "8a87ec27fdd24df88a3de89710e838be.16"
+	},
+	{
+		"keys": [
+			"moeder aa"
+		],
+		"name": "Moeder Aarde",
+		"region": "Tanthof Oost",
+		"lat": 51.975851,
+		"lon": 4.367473,
+		"description": 0,
+		"problem": 0,
+		"park": 1,
+		"dateAdded": "2020-01-25",
+		"guid": "d9d749f0bb7e44f4a6ff031f8b03fad3.16"
+	},
+	{
+		"keys": [
+			"lome",
+			"lomé"
+		],
+		"name": "Lomé Speeltoestel",
+		"region": "Tanthof West",
+		"shortName": "lome",
+		"lat": 51.982069,
+		"lon": 4.336818,
+		"description": "",
+		"park": 1,
+		"problem": 0,
+		"guid": "6a25df9b9fe04c768bce6f1d1084f4ad.16"
+	},
+	{
+		"keys": [
+			"tapir"
+		],
+		"name": "Tapir Meeting",
+		"region": "Delfgauw",
+		"lat": 52.009574,
+		"lon": 4.39074,
+		"description": 0,
+		"problem": 0,
+		"park": 1,
+		"dateAdded": "2019-09-24",
+		"guid": "9e3366f02f1845659cdc5176f6f24c6b.16"
+	},
+	{
+		"keys": [
+			"colourful f",
+			"colorfull f",
+			"colourfull f",
+			"colorful f",
+			"amazingsacha"
+		],
+		"name": "Colourful Flowers in Delft",
+		"region": "Hof van Delft",
+		"lat": 52.011058,
+		"lon": 4.349062,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2,
+		"dateAdded": "2019-09-11"
+	},
+	{
+		"keys": [
+			"hun v",
+			"verzet o"
+		],
+		"name": "Hun Verzet Onze Vrijheid",
+		"region": "Buitenhof",
+		"lat": 51.989294,
+		"lon": 4.334558,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-08-22",
+		"guid": "54f5bbdb6f6d4b36b9fabef5518b1773.16"
+	},
+	{
+		"keys": [
+			"koe"
+		],
+		"name": "Koe",
+		"region": "TU Wijk",
+		"lat": 51.987184,
+		"lon": 4.375974,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-09-04",
+		"guid": "3e77c8dcf7134300b59de918b9da9e88.16"
+	},
+	{
+		"keys": [
+			"drawings"
+		],
+		"name": "Drawings Kids Poptahof",
+		"region": "Voorhof",
+		"lat": 51.999036,
+		"lon": 4.350912,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-06-30",
+		"guid": "77d23f5e2d9c46c3bb057a23a79103f2.16"
+	},
+	{
+		"keys": [
+			"infob"
+		],
+		"name": "Infobord Staatsbosbeheer",
+		"region": "Buitenhof",
+		"lat": 51.989185,
+		"lon": 4.332534,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-08-27",
+		"guid": "1a10103521ed444c98a2f3654e0400e3.16"
+	},
+	{
+		"keys": [
+			"koornbrander"
+		],
+		"name": "Koornbrander Speelplek",
+		"region": "Delfgauw",
+		"lat": 51.997699,
+		"lon": 4.392392,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-05-15",
+		"guid": "bd9ff0e3de7245b29b5005d2358f01e3.16"
+	},
+	{
+		"keys": [
+			"emerald v"
+		],
+		"name": "Emerald Voetbalkooi",
+		"region": "Delfgauw",
+		"lat": 52.003482,
+		"lon": 4.388693,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-05-14",
+		"guid": "e44bb705ba264e0cb71b1aa17880dfee.16"
+	},
+	{
+		"keys": [
+			"kerk delfgauw"
+		],
+		"name": "Kerk Delfgauw",
+		"region": "Delfgauw",
+		"lat": 52.0087,
+		"lon": 4.396491,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-05-09",
+		"guid": "735e092b974f401a831858aeaff0f133.16"
+	},
+	{
+		"keys": [
+			"galil",
+			"galel",
+			"thermometer"
+		],
+		"name": "Galileo Thermometer",
+		"region": "TU Wijk",
+		"lat": 52.000561,
+		"lon": 4.373403,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-05-07",
+		"guid": "20069ff50f1f498286b77cdd5ade8b8a.16"
+	},
+	{
+		"keys": [
+			"reversed",
+			"rev obel",
+			"ksilebo"
+		],
+		"name": "Reversed Obelisk",
+		"region": "Tanthof West",
+		"lat": 51.97868,
+		"lon": 4.341873,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-04-13",
+		"guid": "49d9ad0692fa4c0d90d3d8077b7e94a8.16"
+	},
+	{
+		"keys": [
+			"plaque g"
+		],
+		"name": "Plaque Gardening in Peace",
+		"region": "TU Wijk",
+		"lat": 52.004876,
+		"lon": 4.378727,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-03-19",
+		"guid": "5bffd314553f4f889cc0816429c38cb9.16"
+	},
+	{
+		"keys": [
+			"amari"
+		],
+		"name": "Amarillis",
+		"region": "TU Wijk",
+		"lat": 52.00765,
+		"lon": 4.370947,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-03-18",
+		"guid": "724e0965cec64edb98b7f53ff45b4ac4.16"
+	},
+	{
+		"keys": [
+			"dancing"
+		],
+		"name": "Dancing Figures",
+		"region": "Tanthof Oost",
+		"lat": 51.988801,
+		"lon": 4.360981,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "d971a63b6c30481792b4b69c562ed7fe.16"
+	},
+	{
+		"keys": [
+			"schoorsteen"
+		],
+		"name": "Schoorsteen",
+		"region": "Sion - Haantje",
+		"lat": 52.015739,
+		"lon": 4.327149,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9118872bbbd643f6ade1bef4bf3d12e3.16"
+	},
+	{
+		"keys": [
+			"mijlpaal"
+		],
+		"name": "Mijlpaal",
+		"region": "Delfgauw",
+		"lat": 52.008046,
+		"lon": 4.388931,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "9f62c7bb4a414fbf83c18283f1a6fbc8.16"
+	},
+	{
+		"keys": [
+			"mijlpaal d"
+		],
+		"name": "Mijlpaal Delfland",
+		"region": "Tanthof Oost",
+		"lat": 51.972148,
+		"lon": 4.385957,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "8698f4c82003434fa2bd5cb0127664c7.16"
+	},
+	{
+		"keys": [
+			"kandelaarsbrug",
+			"kandelaarbrug"
+		],
+		"name": "Kandelaarbrug",
+		"region": "Zweth",
+		"lat": 51.963816,
+		"lon": 4.392915,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "257fff1809a541399f253c411461cf97.16"
+	},
+	{
+		"keys": [
+			"de zwetheul",
+			"de zwethheul",
+			"restaurant aan"
+		],
+		"name": "Restaurant Aan de Zweth",
+		"region": "Zweth",
+		"lat": 51.962708,
+		"lon": 4.393858,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "d27e3f7e1ee0474d96a95dd71c3d41ce.16"
+	},
+	{
+		"keys": [
+			"gekke geitje"
+		],
+		"name": "Gekke Geitje",
+		"region": "Rotterdam",
+		"lat": 51.958235,
+		"lon": 4.396764,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "6a8a8df7e4a64c019992931e9c8fe881.16"
+	},
+	{
+		"keys": [
+			"ecopassage",
+			"ecopasage"
+		],
+		"name": "Ecopassage A13",
+		"region": "Ruiven",
+		"lat": 51.966774,
+		"lon": 4.403799,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "0425c8c8cb6d4dc99a1567a497c66bea.16"
+	},
+	{
+		"keys": [
+			"schoolstraat",
+			"hijsbrug"
+		],
+		"name": "Schoolstraat Hijsbrug",
+		"region": "Den Hoorn",
+		"lat": 52.000064,
+		"lon": 4.332359,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "2b86ecd3a18348c4a50f6a410acae89a.16"
+	},
+	{
+		"keys": [
+			"fietsknooppunt 9",
+			"fiets knooppunt 9",
+			"fietsknoopunt 9",
+			"fiets knoopunt 9"
+		],
+		"name": "Fiets Knooppunt 9",
+		"region": "Lansingerland",
+		"lat": 51.977998,
+		"lon": 4.426089,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "db9e7a3548e84cd4a603defd5f2557cf.16"
+	},
+	{
+		"keys": [
+			"molen de valk"
+		],
+		"name": "Molen De Valk",
+		"region": "Lansingerland",
+		"lat": 51.979708,
+		"lon": 4.428681,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "4555c6c7121c4ad8a03fc3bb2c98d6bf.16"
+	},
+	{
+		"keys": [
+			"ackerdijkse plassen",
+			"akkerdijkse plassen",
+			"akerdijkse plassen"
+		],
+		"name": "Ackerdijkse plassen",
+		"region": "Oude Leede",
+		"lat": 51.98063,
+		"lon": 4.419608,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a1cd8775023e4ced883e0960c847c1b8.16"
+	},
+	{
+		"keys": [
+			"ackerdijkse polder",
+			"akkerdijkse polder",
+			"akerdijkse polder"
+		],
+		"name": "Ackerdijkse polder",
+		"region": "Oude Leede",
+		"lat": 51.981235,
+		"lon": 4.415329,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "0241e2c12a3545eda59e6d1aa3cf9f01.16"
+	},
+	{
+		"keys": [
+			"schoolgebouwen",
+			"school gebouwen"
+		],
+		"name": "Schoolgebouwen",
+		"region": "Oude Leede",
+		"lat": 51.986005,
+		"lon": 4.422078,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "18a3eeef63914a719db92100e33d588d.16"
+	},
+	{
+		"keys": [
+			"vrijheidsbeeld",
+			"vrijheids beeld"
+		],
+		"name": "Vrijheidsbeeld",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.030072,
+		"lon": 4.377919,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "b2f4e7f04d5046d49b11ef9c78786356.16"
+	},
+	{
+		"keys": [
+			"playground van d",
+			"playground ven",
+			"playground"
+		],
+		"name": "playground van de ven straat",
+		"region": "Sion - Haantje",
+		"lat": 52.019176,
+		"lon": 4.330085,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "d8dac0269ebc4e7398c2c15c104fb62e.16"
+	},
+	{
+		"keys": [
+			"3 variaties op een",
+			"3 variaties op een vierkant 1",
+			"3v1",
+			"3 v 1"
+		],
+		"name": "3 Variaties op een vierkant 1",
+		"shortName": "3v1",
+		"region": "Tanthof Oost",
+		"lat": 51.982936,
+		"lon": 4.362051,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "c6b8d4ac680b4a0f981a7864439fb340.16"
+	},
+	{
+		"keys": [
+			"3 variaties op een",
+			"3 variaties op een vierkant 2",
+			"3v2",
+			"3 v 2"
+		],
+		"name": "3 Variaties op een vierkant 2",
+		"shortName": "3v2",
+		"region": "Tanthof West",
+		"lat": 51.979788,
+		"lon": 4.344203,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "7053ef8377e44749a18fb66bf899de61.11"
+	},
+	{
+		"keys": [
+			"3 variaties op een",
+			"3 variaties op een vierkant 3",
+			"3v3",
+			"3 v 3"
+		],
+		"name": "3 Variaties op een vierkant 3",
+		"shortName": "3v3",
+		"region": "Tanthof West",
+		"lat": 51.98101,
+		"lon": 4.351716,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "8ab3ac9bdeab4c57bb5eaf819868a370.16"
+	},
+	{
+		"keys": [
+			"aarda",
+			"aard a"
+		],
+		"name": "Aardappeleters",
+		"region": "Hof van Delft",
+		"lat": 52.007019,
+		"lon": 4.350897,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1d59259ce78b4495aa468cf2f0aaadc0.16"
+	},
+	{
+		"keys": [
+			"artful"
+		],
+		"name": "Artful Cube",
+		"shortName": "artful",
+		"region": "Vrijenban",
+		"lat": 52.01396,
+		"lon": 4.372869,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "a6d3b96512f04c5aa704f8794a67e34f.16"
+	},
+	{
+		"keys": [
+			"basketbalveldje",
+			"basketbalv",
+			"basketbal v",
+			"basketbal"
+		],
+		"name": "Basketbalveldje",
+		"region": "Hof van Delft",
+		"lat": 52.014549,
+		"lon": 4.342024,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "1480a5ca82914176b2275945228aa5ff.16"
+	},
+	{
+		"keys": [
+			"basketbalveld",
+			"basketbalveld kr",
+			"basketbalvenieg",
+			"basketbalv",
+			"basketbal v",
+			"basketbal"
+		],
+		"name": "Basketbalveld Kringloop",
+		"region": "Voordijkshoorn",
+		"lat": 52.008773,
+		"lon": 4.340403,
+		"description": 0,
+		"problem": 0,
+		"park": 1,
+		"guid": "004ec23d38f7411b8ea0f8269c9b7bc4.16"
+	},
+	{
+		"keys": [
+			"bicycle l",
+			"bicyclel"
+		],
+		"name": "Bicycle Love",
+		"shortName": "bicycle",
+		"region": "Hof van Delft",
+		"lat": 52.010445,
+		"lon": 4.346369,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "bd00d57c59a4424699e1fe9eb6e2a066.16"
+	},
+	{
+		"keys": [
+			"big t",
+			"bigtub"
+		],
+		"name": "Big Tubes",
+		"region": "Tanthof Oost",
+		"lat": 51.988527,
+		"lon": 4.370849,
+		"description": "Slecht bereikbaar",
+		"park": 0,
+		"problem": 0,
+		"guid": "db0b13a3b21d4616a205f4b56e22c454.16"
+	},
+	{
+		"keys": [
+			"blue bi",
+			"bluebird"
+		],
+		"name": "Blue Birds Honkbal",
+		"region": "TU Wijk",
+		"lat": 51.992415,
+		"lon": 4.379272,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "3bab5e5f250e42e4aabc97008eb522aa.16"
+	},
+	{
+		"keys": [
+			"blauw-geel",
+			"blauw geel",
+			"geel blauw",
+			"geel-blauw"
+		],
+		"name": "Blauw-Geel Keramiek Object",
+		"region": "Voorhof",
+		"lat": 52.001464,
+		"lon": 4.354386,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "f71c6e2a6a3f4faea461cd37cf94602b.11"
+	},
+	{
+		"keys": [
+			"cactus"
+		],
+		"name": "Cactus",
+		"region": "Ruiven",
+		"lat": 51.980821,
+		"lon": 4.394896,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "4a53c97d11b047d187574eb5615fbb70.16"
+	},
+	{
+		"keys": [
+			"cannon"
+		],
+		"name": "Cannon",
+		"region": "Delftse Hout",
+		"lat": 52.020303,
+		"lon": 4.369363,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "70e7f5a780464f07b0de80c63f12134c.16"
+	},
+	{
+		"keys": [
+			"climb t"
+		],
+		"name": "Climb the Frogs",
+		"region": "Tanthof West",
+		"lat": 51.980316,
+		"lon": 4.341225,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "78e080406e4149f3aacbb9432c6a137d.16"
+	},
+	{
+		"keys": [
+			"color s",
+			"colour s"
+		],
+		"name": "Color Sculpture",
+		"region": "Buitenhof",
+		"lat": 51.993557,
+		"lon": 4.334562,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "050c407c6fca4bdca31c895bf82e18e0.16"
+	},
+	{
+		"keys": [
+			"colorful h",
+			"colorfull h",
+			"colourful h",
+			"colourfull h",
+			"hip hops",
+			"hiphops",
+			"chh"
+		],
+		"name": "Colorful Hip Hops",
+		"region": "Vrijenban",
+		"lat": 52.025262,
+		"lon": 4.351954,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "acd9b50b67f24aa7abf342fa0861a1e5.16"
+	},
+	{
+		"keys": [
+			"coligny",
+			"de coligny"
+		],
+		"name": "De Coligny",
+		"region": "TU Wijk",
+		"lat": 52.006098,
+		"lon": 4.37564,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "b85434d6a55e4d87a6415aca20633919.16"
+	},
+	{
+		"keys": [
+			"delftse pauw",
+			"de delftse pauw"
+		],
+		"name": "De Delftse Pauw",
+		"region": "Vrijenban",
+		"lat": 52.023941,
+		"lon": 4.347708,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a6d08f3134594ab887917a94e40a739b.16"
+	},
+	{
+		"keys": [
+			"hofstee",
+			"de hofstee"
+		],
+		"name": "De Hofstee",
+		"region": "Tanthof West",
+		"lat": 51.986281,
+		"lon": 4.351863,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "da36ab54a7cc4b3089fbf5d51ff2a9cd.16"
+	},
+	{
+		"keys": [
+			"hondenv",
+			"hondenr",
+			"hondrenv",
+			"hrv"
+		],
+		"name": "Hondenrenveld",
+		"region": "TU Wijk",
+		"lat": 52.000727,
+		"lon": 4.385872,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "124d41b74abd4e4ba5df3ecdbb006831.16"
+	},
+	{
+		"keys": [
+			"kamer van c",
+			"de kamer",
+			"charilabla"
+		],
+		"name": "De Kamer van Charilabla 1614",
+		"region": "Centrum",
+		"lat": 52.012398,
+		"lon": 4.353999,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "5b3be4623fed4791b398d38f88012a6f.16"
+	},
+	{
+		"keys": [
+			"de nieuwe",
+			"nieuwe lente"
+		],
+		"name": "De Nieuwe Lente",
+		"region": "Centrum",
+		"lat": 52.009748,
+		"lon": 4.364057,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "18344a6d023b4cf6afabd2e503ee5664.16"
+	},
+	{
+		"keys": [
+			"oostpoort",
+			"de oostpoort"
+		],
+		"name": "Oostpoort",
+		"region": "Centrum",
+		"lat": 52.010807,
+		"lon": 4.368653,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "5a8f5788f8fc462187423da830dfbaf2.12"
+	},
+	{
+		"keys": [
+			"r.k. k",
+			"rkk",
+			"rk ker",
+			"de r.k.",
+			"de rk",
+			"r. k. k",
+			"de r. k."
+		],
+		"name": "De R.K. Kerk Antonius en Cornelius",
+		"region": "Den Hoorn",
+		"lat": 51.999597,
+		"lon": 4.33198,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "0e3d7ba2ac4842a9b731ddce32015c43.16"
+	},
+	{
+		"keys": [
+			"de vogelk",
+			"vogelkijkplek",
+			"vkp"
+		],
+		"name": "De Vogelkijkplek",
+		"region": "Delftse Hout",
+		"lat": 52.020284,
+		"lon": 4.38856,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "393634dfbfa34cf9af5067e26ac4f6af.16"
+	},
+	{
+		"keys": [
+			"delft station",
+			"station",
+			"delft central",
+			"delft centraal",
+			"centraal",
+			"delft cs",
+			"central station"
+		],
+		"name": "Delft Central Station",
+		"region": "Centrum",
+		"lat": 52.006556,
+		"lon": 4.356618,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "6cc02b14653e44fd9813ba1cc643be9f.16"
+	},
+	{
+		"keys": [
+			"delfts blauwe s",
+			"blauwe stenen",
+			"delftsblauwe st"
+		],
+		"name": "Delfts Blauwe Stenen",
+		"region": "Voorhof",
+		"lat": 51.999322,
+		"lon": 4.353675,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "138b2edf3eae4a488c73570a5c5c5668.11"
+	},
+	{
+		"keys": [
+			"delftse hout l"
+		],
+		"name": "Delftse Hout Leisure National Park",
+		"region": "Delftse Hout",
+		"lat": 52.024421,
+		"lon": 4.382222,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "99509a479dec4f378975a841048fc05e.16"
+	},
+	{
+		"keys": [
+			"schommeltj"
+		],
+		"name": "Schommeltje",
+		"region": "Tanthof Oost",
+		"lat": 51.980648,
+		"lon": 4.361785,
+		"description": 0,
+		"problem": 0,
+		"park": 1,
+		"dateAdded": "2019-08-07",
+		"guid": "4276b6102fb441eaa37d745d263447de.16"
+	},
+	{
+		"keys": [
+			"delftse tegelmannen",
+			"tegelmannen"
+		],
+		"name": "Delftse Tegelmannen",
+		"region": "TU Wijk",
+		"lat": 52.001692,
+		"lon": 4.364035,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "83cd892d2daf402a90716298bbdc2370.16"
+	},
+	{
+		"keys": [
+			"delftshout",
+			"levenslust"
+		],
+		"name": "Delftshout Levenslust",
+		"region": "Delftse Hout",
+		"lat": 52.011711,
+		"lon": 4.390938,
+		"description": "Open tot 18:00",
+		"park": 0,
+		"problem": 1,
+		"guid": "56d2a1e534074b728d62043c2359fd6d.16"
+	},
+	{
+		"keys": [
+			"delta res",
+			"deltares"
+		],
+		"name": "Delta Rescue",
+		"region": "Ruiven",
+		"lat": 51.985834,
+		"lon": 4.379062,
+		"description": "Open tussen 08:00 en 17:30",
+		"park": 1,
+		"problem": 1,
+		"guid": "9ef08d1c7fb642439dbb8d365feb3a44.16"
+	},
+	{
+		"keys": [
+			"dok"
+		],
+		"name": "Dok Delft Bibliotheek",
+		"region": "Centrum",
+		"lat": 52.008715,
+		"lon": 4.362808,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e21bc8f7b7b24ed4b34140f95c8f3add.16"
+	},
+	{
+		"keys": [
+			"door a"
+		],
+		"name": "Door Art",
+		"region": "Hof van Delft",
+		"lat": 52.006218,
+		"lon": 4.353128,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a08194956a8a45d8807e1bf33308d6ba.16"
+	},
+	{
+		"keys": [
+			"zonneb",
+			"de zonneb",
+			"zonnenb",
+			"de zonnenb"
+		],
+		"name": "De Zonnebloem",
+		"region": "Tanthof Oost",
+		"lat": 51.988371,
+		"lon": 4.365218,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-04-09",
+		"guid": "8de70b54c3e9461c9c98404d551f5b83.16"
+	},
+	{
+		"keys": [
+			"ruiterr"
+		],
+		"name": "ruiterroutes Midden-Delfland",
+		"region": "Ruiven",
+		"lat": 51.981793,
+		"lon": 4.381239,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-09-03",
+		"guid": "008c8fe8292749b993574d9fc742ff66.16"
+	},
+	{
+		"keys": [
+			"dsm"
+		],
+		"name": "DSM Kunstwerk",
+		"region": "Hof van Delft",
+		"lat": 52.018207,
+		"lon": 4.348428,
+		"description": "Niet bereikbaar",
+		"park": 0,
+		"problem": 2,
+		"guid": "441055875fd248429648720f39c046d8.16"
+	},
+	{
+		"keys": [
+			"dvv",
+			"dvv d"
+		],
+		"name": "Dvv Delft Tennis",
+		"region": "Buitenhof",
+		"lat": 51.989945,
+		"lon": 4.32465,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "2d290f718b98404cbe5a6e9d1629e360.16"
+	},
+	{
+		"keys": [
+			"eensgezind",
+			"eengezind"
+		],
+		"name": "Eensgezindheid",
+		"region": "Den Hoorn",
+		"lat": 52.006868,
+		"lon": 4.312712,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "07f15f8b055b400cac01113635486433.16"
+	},
+	{
+		"keys": [
+			"egg m",
+			"eggm"
+		],
+		"name": "Egg Mosaic",
+		"region": "Vrijenban",
+		"lat": 52.017776,
+		"lon": 4.36472,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e130275231d44771b47589e7512c1bde.11"
+	},
+	{
+		"keys": [
+			"enraf"
+		],
+		"name": "Enraf",
+		"region": "TU Wijk",
+		"lat": 51.997618,
+		"lon": 4.385694,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "4d3649f09f2b4bd795f3cfd204c1de77.16"
+	},
+	{
+		"keys": [
+			"engels"
+		],
+		"name": "Engelse Drop",
+		"region": "Tanthof West",
+		"lat": 51.98103,
+		"lon": 4.341999,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "3007414a6c824a05931f52b99a4b3659.16"
+	},
+	{
+		"keys": [
+			"entrance",
+			"bieslandse"
+		],
+		"name": "Entrance Bieslandse Bos Delft",
+		"shortName": "entrance",
+		"region": "Bieslandse Bos",
+		"lat": 52.026196,
+		"lon": 4.381473,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "95e9938d283748ed8d897db2ce7feed2.16"
+	},
+	{
+		"keys": [
+			"evenwicht ij",
+			"evenwicht li"
+		],
+		"name": "Evenwicht Ijzer",
+		"shortName": "evenwicht",
+		"region": "Buitenhof",
+		"lat": 51.994193,
+		"lon": 4.343944,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "26cd646d2d3847bd87f5f7a60510add6.16"
+	},
+	{
+		"keys": [
+			"fietsknooppunt 5",
+			"fietsknoopunt 5",
+			"fiets knooppunt 5",
+			"fiets knoopunt 5"
+		],
+		"name": "Fietsknooppunt 5",
+		"region": "Delfgauw",
+		"lat": 52.00251,
+		"lon": 4.400697,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "d665069e92234d899b83f7705f8625d4.16"
+	},
+	{
+		"keys": [
+			"giant g",
+			"giant d"
+		],
+		"name": "Giant Grill",
+		"region": "Tanthof Oost",
+		"lat": 51.984379,
+		"lon": 4.37118,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "8bf101321c4944faa95d5e0df9cd87f0.16"
+	},
+	{
+		"keys": [
+			"giant tripod",
+			"rijkswater",
+			"tripod",
+			"rws"
+		],
+		"name": "Giant Tripod at Rijkswaterstaat",
+		"region": "Tanthof West",
+		"lat": 51.985344,
+		"lon": 4.345749,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "6495cf8be22d414a84c116cecd9c805f.16"
+	},
+	{
+		"keys": [
+			"glasbak"
+		],
+		"name": "Glasbak Art",
+		"region": "TU Wijk",
+		"lat": 52.001829,
+		"lon": 4.365965,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "387c1782c7824664b990fec2872257c2.16"
+	},
+	{
+		"keys": [
+			"granito"
+		],
+		"name": "Granito-Vier Objecten",
+		"shortName": "granito",
+		"region": "Centrum",
+		"lat": 52.017619,
+		"lon": 4.354269,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "5f2617fe13bc4a4895d273e0735df767.16"
+	},
+	{
+		"keys": [
+			"green c",
+			"white tab"
+		],
+		"name": "Green Chair with White Table",
+		"region": "Voordijkshoorn",
+		"lat": 52.001009,
+		"lon": 4.341128,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "bcc6b495cf8c452ca213abe7bf3a412f.16"
+	},
+	{
+		"keys": [
+			"guardian"
+		],
+		"name": "Guardian Angels",
+		"region": "Buitenhof",
+		"lat": 51.990679,
+		"lon": 4.348502,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "64df4b7124e84b8087dfade5e1208db7.16"
+	},
+	{
+		"keys": [
+			"haan van"
+		],
+		"name": "Haan van Ruyven",
+		"region": "Delfgauw",
+		"lat": 51.993416,
+		"lon": 4.400026,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "5244a3730b684efeab38b4bf031f350d.16"
+	},
+	{
+		"keys": [
+			"hamenpoort",
+			"hammenpoort",
+			"hamenpoort s",
+			"hammenpoort s"
+		],
+		"name": "Hamenpoort Speelnatuur",
+		"shortName": "hamenpoort",
+		"region": "TU Wijk",
+		"lat": 51.996184,
+		"lon": 4.371666,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "0af3e24e23a142ea87b961adb28901bd.16"
+	},
+	{
+		"keys": [
+			"hanging l"
+		],
+		"name": "Hanging Log Art",
+		"region": "Ruiven",
+		"lat": 51.979555,
+		"lon": 4.384984,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "d70679f412cb4d82974a06f16ea512bf.16"
+	},
+	{
+		"keys": [
+			"hbsv",
+			"willem t"
+		],
+		"name": "HBSV Willem Tell",
+		"region": "TU Wijk",
+		"lat": 51.992985,
+		"lon": 4.3726,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a61f2ecdfc95417483bb5a528596d252.16"
+	},
+	{
+		"keys": [
+			"hello r"
+		],
+		"name": "Hello Rainbow",
+		"region": "Voorhof",
+		"lat": 52.000396,
+		"lon": 4.351161,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "cacc572d04e84082b221938437d697bc.16"
+	},
+	{
+		"keys": [
+			"huisje a",
+			"hadb"
+		],
+		"name": "Huisje aan de Beestenmarkt",
+		"region": "Centrum",
+		"lat": 52.011435,
+		"lon": 4.362977,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1492fe63f3924ed0a41aa94c57949ed8.12"
+	},
+	{
+		"keys": [
+			"blauwe hart",
+			"het blauwe",
+			"??",
+			":blue_heart:"
+		],
+		"name": "Het Blauwe Hart",
+		"region": "Centrum",
+		"lat": 52.011877,
+		"lon": 4.360615,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "6802853639ce42a390b9f4202729b49e.11"
+	},
+	{
+		"keys": [
+			"het veldje",
+			"veldje",
+			"t veldje"
+		],
+		"name": "Het Veldje",
+		"region": "Hof van Delft",
+		"lat": 52.010343,
+		"lon": 4.343677,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "c2b3c5dd985143c4a95c25ea08b7a23c.16"
+	},
+	{
+		"keys": [
+			"hidden a"
+		],
+		"name": "Hidden Artwork",
+		"region": "Voorhof",
+		"lat": 51.994457,
+		"lon": 4.365788,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "6260959b14c8497e8b970dda71754610.16"
+	},
+	{
+		"keys": [
+			"high w"
+		],
+		"name": "High Water Bridge",
+		"region": "Vrijenban",
+		"lat": 52.015294,
+		"lon": 4.372729,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e749ea325be74dff979bb7d9824bbef7.16"
+	},
+	{
+		"keys": [
+			"highway"
+		],
+		"name": "Highway Fitness Point",
+		"region": "Oude Leede",
+		"lat": 51.985422,
+		"lon": 4.395496,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9581597b0e33435aa56548fa51ae1633.16"
+	},
+	{
+		"keys": [
+			"historic t",
+			"hystoric t"
+		],
+		"name": "Historic TU Delft Faculty Building",
+		"region": "TU Wijk",
+		"lat": 52.006947,
+		"lon": 4.369497,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "8dcaebc0b99042cd9a6eb3b6a1c16090.16"
+	},
+	{
+		"keys": [
+			"ringpas",
+			"ring pas"
+		],
+		"name": "Ring Pass Delft",
+		"region": "Voordijkshoorn",
+		"lat": 52.007525,
+		"lon": 4.334961,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9b4dd51209c34020985ac5c9cddfcb57.16"
+	},
+	{
+		"keys": [
+			"hoven"
+		],
+		"name": "Hoven Passage",
+		"region": "Voorhof",
+		"lat": 51.997732,
+		"lon": 4.354652,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "416a380005b94e198fab0b0043ef3ad0.11"
+	},
+	{
+		"keys": [
+			"ichtus"
+		],
+		"name": "Ichtus",
+		"region": "Delfgauw",
+		"lat": 52.00819,
+		"lon": 4.400405,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2,
+		"guid": "2b5c47416659467bb2f93af64fa18a20.16"
+	},
+	{
+		"keys": [
+			"iron p"
+		],
+		"name": "Iron People",
+		"region": "Voorhof",
+		"lat": 51.99307,
+		"lon": 4.351851,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "ae61dd455a0f48229a8e714872349422.16"
+	},
+	{
+		"keys": [
+			"jan w",
+			"o jan",
+			"oh jan",
+			"jan,",
+			"jwzjhm",
+			"ojwzjhm"
+		],
+		"name": "Jan, Wat Zit Je Haar Mooi!",
+		"region": "Voorhof",
+		"lat": 52.004666,
+		"lon": 4.359315,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "459961443e8b4da98a8805ce7d5e10a9.16"
+	},
+	{
+		"keys": [
+			"karthuizer",
+			"karthuyzer"
+		],
+		"name": "Karthuizer Klooster",
+		"shortName": "karthuyzer",
+		"region": "Voordijkshoorn",
+		"lat": 52.00201,
+		"lon": 4.342985,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "a0a7a663cfb44e76b7d6d5706f2bc8cd.16"
+	},
+	{
+		"keys": [
+			"kerkpolder",
+			"zwembad kerkpolder"
+		],
+		"name": "Kerkpolder",
+		"region": "Buitenhof",
+		"lat": 51.99081,
+		"lon": 4.331546,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "1d06c589e2f3498f8d73386a8cb4aa48.16"
+	},
+	{
+		"keys": [
+			"klein vr"
+		],
+		"name": "Klein Vrijenban",
+		"region": "Delfgauw",
+		"lat": 52.009454,
+		"lon": 4.396909,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "44c09addb9aa4e6f9b8afb0b8e2ce3b6.16"
+	},
+	{
+		"keys": [
+			"klm"
+		],
+		"name": "KLM Photon Torpedo",
+		"region": "TU Wijk",
+		"lat": 52.007062,
+		"lon": 4.370091,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9eeeac2dd8fa4b5d938b4ae679f0409e.16"
+	},
+	{
+		"keys": [
+			"knooppunt 59",
+			"knoopunt 59"
+		],
+		"name": "Knooppunt 59",
+		"region": "Tanthof Oost",
+		"lat": 51.978373,
+		"lon": 4.365888,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "35c6c0a4bdf9434bbd5d8371b50b5de4.16"
+	},
+	{
+		"keys": [
+			"lighthouse"
+		],
+		"name": "Lighthouse",
+		"region": "Tanthof Oost",
+		"lat": 51.981247,
+		"lon": 4.364636,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "7e9a30ed087f49d3810679e65ee13301.16"
+	},
+	{
+		"keys": [
+			"kolom"
+		],
+		"name": "Kolom Van De Mensenrechten",
+		"region": "Delfgauw",
+		"lat": 51.999633,
+		"lon": 4.393437,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e5f2b27705114a0baf30c49982ac82c9.16"
+	},
+	{
+		"keys": [
+			"koninkrijk",
+			"jehova"
+		],
+		"name": "Koninkrijkszaal Van Jehovah's Getuigen",
+		"region": "Voorhof",
+		"lat": 51.989683,
+		"lon": 4.354803,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "484bf20a256946209d5b377501aaedc1.16"
+	},
+	{
+		"keys": [
+			"kunst m",
+			"kmg"
+		],
+		"name": "Kunst Met Gaten",
+		"region": "Ruiven",
+		"lat": 51.979459,
+		"lon": 4.390689,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "30c9ee46f2b9403d99e7dffa9fdc73f7.16"
+	},
+	{
+		"keys": [
+			"poetry4",
+			"poetry 4",
+			"poetry on bridge #4",
+			"poetry on bridge 4",
+			"poetry on bridge n",
+			"poetry on a bridge n",
+			"poetry on a bridge 4",
+			"poetry on a bridge #"
+		],
+		"name": "Poetry On Bridge #4",
+		"region": "Voordijkshoorn",
+		"lat": 52.006733,
+		"lon": 4.321485,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "91485d1d48854f91b803a5d79b6ed33b.16"
+	},
+	{
+		"keys": [
+			"poetry on bridge",
+			"poetry on bridge 1",
+			"poetry on a bridge 1"
+		],
+		"name": "Poetry on Bridge",
+		"region": "Voordijkshoorn",
+		"lat": 52.00991,
+		"lon": 4.328673,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "127e81be5c61401d956f1f911815418b.16"
+	},
+	{
+		"keys": [
+			"kwakkie"
+		],
+		"name": "Kwakkie Verf",
+		"region": "Tanthof West",
+		"lat": 51.983143,
+		"lon": 4.347033,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "ebb44c85775c4a62a89b5ddcc8e5382d.16"
+	},
+	{
+		"keys": [
+			"tub",
+			"library t",
+			"tu delft library",
+			"tulib",
+			"tu lib"
+		],
+		"name": "Library TU Delft",
+		"region": "TU Wijk",
+		"lat": 52.002711,
+		"lon": 4.375569,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "4048edb3a1ee4d2ea13e4b8c04422cb5.11"
+	},
+	{
+		"keys": [
+			"uylen"
+		],
+		"name": "Uylenburg",
+		"region": "Bieslandse Bos",
+		"lat": 52.018875,
+		"lon": 4.389542,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "bd0ad7e44d5648d89ebc103ebc114380.16"
+	},
+	{
+		"keys": [
+			"maria v",
+			"jesse kerk",
+			"jessekerk",
+			"mvj"
+		],
+		"name": "Maria van Jesse kerk",
+		"region": "Centrum",
+		"lat": 52.011238,
+		"lon": 4.36121,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "6f7eb5409b7d431e9a5deb5e11911e86.12"
+	},
+	{
+		"keys": [
+			"mental",
+			"birdhouse"
+		],
+		"name": "Mental Birdhouse",
+		"region": "Vrijenban",
+		"lat": 52.022733,
+		"lon": 4.361418,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "d60b35369e594e13aa23ee237bb01a00.16"
+	},
+	{
+		"keys": [
+			"molen aan",
+			"aan look"
+		],
+		"name": "Molen Aan Look",
+		"region": "Den Hoorn",
+		"lat": 52.002656,
+		"lon": 4.327994,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "8623b68624684b948656f8a2e7eb0148.16"
+	},
+	{
+		"keys": [
+			"molen de k",
+			"de klokkenmaker",
+			"klokkenmaker"
+		],
+		"name": "Molen De Klokkenmaker",
+		"region": "Bieslandse Bos",
+		"lat": 52.021492,
+		"lon": 4.388104,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "e8e3ea0ba75d4088aa285273a11573be.16"
+	},
+	{
+		"keys": [
+			"molen steen",
+			"molensteen"
+		],
+		"name": "Molen Steen",
+		"region": "Voordijkshoorn",
+		"lat": 52.001161,
+		"lon": 4.336615,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "7c2820bb34fe40b8956abe52c53b82ef.16"
+	},
+	{
+		"keys": [
+			"monument j",
+			"jc"
+		],
+		"name": "Monument JC Van Marken",
+		"shortName": "jc",
+		"region": "Hof van Delft",
+		"lat": 52.016637,
+		"lon": 4.346709,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "1c3f1251c5c7446f8de1872ecc75e470.16"
+	},
+	{
+		"keys": [
+			"more an",
+			"animals on",
+			"maoaf"
+		],
+		"name": "More Animals On A Fence",
+		"region": "Buitenhof",
+		"lat": 51.995158,
+		"lon": 4.339937,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "a7982855154a447f9d4894fbb53a2f0f.16"
+	},
+	{
+		"keys": [
+			"nature w"
+		],
+		"name": "Nature Wall",
+		"region": "TU Wijk",
+		"lat": 52.010145,
+		"lon": 4.375942,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "8fbd5ddebc23433e91351412a3035fdd.16"
+	},
+	{
+		"keys": [
+			"nederland gr",
+			"gruttoland"
+		],
+		"name": "Nederland GruttoLand",
+		"region": "Schipluiden",
+		"lat": 51.989543,
+		"lon": 4.321627,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "a60bc902a71141c1a3baf919d6c6d2ee.16"
+	},
+	{
+		"keys": [
+			"nep r"
+		],
+		"name": "Nep Ruïne",
+		"region": "TU Wijk",
+		"lat": 52.006052,
+		"lon": 4.37943,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2,
+		"guid": "3c8c9206821d49baa9e58a7b883ccc45.16"
+	},
+	{
+		"keys": [
+			"nieuwe kerk",
+			"het boek"
+		],
+		"name": "Het Boek",
+		"region": "Tanthof West",
+		"lat": 51.985998,
+		"lon": 4.352476,
+		"description": "Vroeger \"nieuwe Kerk\"",
+		"park": 0,
+		"problem": 0,
+		"guid": "950be6d27fbf42ddbf453b3f813c30ec.16"
+	},
+	{
+		"keys": [
+			"old town w",
+			"otw"
+		],
+		"name": "Old Town Wall",
+		"region": "Centrum",
+		"lat": 52.016816,
+		"lon": 4.360457,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "80b8e71176544550a090952bc5aab3aa.16"
+	},
+	{
+		"keys": [
+			"old tu"
+		],
+		"name": "Old Tudelft Library",
+		"region": "Centrum",
+		"lat": 52.015722,
+		"lon": 4.36004,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "26136b51562446b4ad7634ca740e74ac.11"
+	},
+	{
+		"keys": [
+			"overkapping",
+			"overkapping n",
+			"overkapping #",
+			"overkapping 5"
+		],
+		"name": "Overkapping Nr 5",
+		"region": "Tanthof West",
+		"lat": 51.980517,
+		"lon": 4.353298,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "ffa12f2eaf424d7d8b712f05ee75f684.16"
+	},
+	{
+		"keys": [
+			"paddestoelen"
+		],
+		"name": "Paddestoelen",
+		"region": "Delftse Hout",
+		"lat": 52.014585,
+		"lon": 4.379885,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "48edd781f3d54f9e830e26ba2bb813c3.16"
+	},
+	{
+		"keys": [
+			"paint j",
+			"paintj"
+		],
+		"name": "Paint Jobs",
+		"region": "Tanthof Oost",
+		"lat": 51.985191,
+		"lon": 4.367516,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "c8e14d0ee2694d78830b11ce7f00faf9.16"
+	},
+	{
+		"keys": [
+			"painting",
+			"pip"
+		],
+		"name": "Painting in a Playground",
+		"region": "Buitenhof",
+		"lat": 51.988414,
+		"lon": 4.345384,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "00f06bec6b264f86a32383846f824f72.16"
+	},
+	{
+		"keys": [
+			"papegaai",
+			"papa gaai"
+		],
+		"name": "Papegaaien",
+		"region": "Delftse Hout",
+		"lat": 52.027831,
+		"lon": 4.366862,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "fe75a4eb0d09408784f200a92312f948.16"
+	},
+	{
+		"keys": [
+			"parel v"
+		],
+		"name": "Parel Van De Zee",
+		"region": "Delfgauw",
+		"lat": 51.998338,
+		"lon": 4.396795,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "caed1f7e170f4b82851a1de1dfa553f3.16"
+	},
+	{
+		"keys": [
+			"plaquette",
+			"plawuette op"
+		],
+		"name": "Plaquette op bank",
+		"shortName": "plaquette",
+		"region": "Centrum",
+		"lat": 52.017165,
+		"lon": 4.351823,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "f158f587008e477d9822c6d0570d3a3c.16"
+	},
+	{
+		"keys": [
+			"pauwhof",
+			"pds"
+		],
+		"name": "Pauwhof Draad Sculpture",
+		"region": "Vrijenban",
+		"lat": 52.0244,
+		"lon": 4.350588,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "072679e92e884957887b654aa8394ff1.16"
+	},
+	{
+		"keys": [
+			"pink and ",
+			"pink &"
+		],
+		"name": "Pink And Blue Playground",
+		"region": "Vrijenban",
+		"lat": 52.027006,
+		"lon": 4.354541,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1a038ce1a17a4d9d8a545804ebc097fc.16"
+	},
+	{
+		"keys": [
+			"emerald s"
+		],
+		"name": "Emerald Speeltuin",
+		"region": "Delfgauw",
+		"lat": 52.003454,
+		"lon": 4.389889,
+		"description": "Vroeger \"Playground\"",
+		"park": 1,
+		"problem": 0,
+		"guid": "66fb2753dc734ed7baaea2bfbf3fbd5c.16"
+	},
+	{
+		"keys": [
+			"playground bra",
+			"playground",
+			"brahmslaan"
+		],
+		"name": "Playground Brahmslaan",
+		"shortName": "brahmslaan",
+		"region": "Buitenhof",
+		"lat": 51.995636,
+		"lon": 4.334842,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "3446673d96f445fe88627473123cfea9.16"
+	},
+	{
+		"keys": [
+			"playground stra",
+			"playground",
+			"ormoes",
+			"straat van ormoes"
+		],
+		"name": "Playground Straat van Ormoes",
+		"shortName": "ormoes",
+		"region": "Tanthof West",
+		"lat": 51.977992,
+		"lon": 4.346965,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "6225aab561914fdfb84a5f520ffff9d3.16"
+	},
+	{
+		"keys": [
+			"playground vi",
+			"playground",
+			"vivaldi"
+		],
+		"name": "Playground Vivaldilaan",
+		"region": "Buitenhof",
+		"lat": 51.993078,
+		"lon": 4.338697,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "587069be452a4b5b9c42a370419c3f8e.16"
+	},
+	{
+		"keys": [
+			"playground mars",
+			"playground",
+			"marshall"
+		],
+		"name": "Playground Marshalllaan",
+		"region": "Buitenhof",
+		"lat": 51.986875,
+		"lon": 4.346241,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "c80387ad414141cf97a5563076bef9e1.16"
+	},
+	{
+		"keys": [
+			"poldergemaal",
+			"kerstanjew"
+		],
+		"name": "Poldergemaal Kerstanjewetering",
+		"region": "Hof van Delft",
+		"lat": 52.016355,
+		"lon": 4.335027,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-03-04",
+		"guid": "1f882cc374f044398d91903ab9b19a01.16"
+	},
+	{
+		"keys": [
+			"public l"
+		],
+		"name": "Public Library",
+		"region": "Den Hoorn",
+		"lat": 52.00318,
+		"lon": 4.331014,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "92cde59991294cb0901dfc9b6fc9fcc0.16"
+	},
+	{
+		"keys": [
+			"race p"
+		],
+		"name": "Race Planet Delft",
+		"region": "Delftse Hout",
+		"lat": 52.025255,
+		"lon": 4.364048,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "262e23ff99364d0bae47ade4d80f6451.16"
+	},
+	{
+		"keys": [
+			"relief d",
+			"reliëf d",
+			"driemaster",
+			"de hoornbloem",
+			"hoornbloem"
+		],
+		"name": "Reliëf Driemaster Den Hoorn",
+		"region": "Den Hoorn",
+		"lat": 52.000454,
+		"lon": 4.331761,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "4dc721547b084b3f80fe15ae080c87c3.16"
+	},
+	{
+		"keys": [
+			"relief v",
+			"reliëf v",
+			"viaduct"
+		],
+		"name": "Relief Viaduct",
+		"region": "TU Wijk",
+		"lat": 52.00663,
+		"lon": 4.383084,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-03-04",
+		"guid": "e7a99e689bd44191861a9b7e3025a3f2.16"
+	},
+	{
+		"keys": [
+			"royal b",
+			"rbb"
+		],
+		"name": "Royal Blue Bench",
+		"shortName": "rbb",
+		"region": "Voorhof",
+		"lat": 51.992333,
+		"lon": 4.353521,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "3d19218480c24f65b20ae26583396ab5.16"
+	},
+	{
+		"keys": [
+			"route paal",
+			"routepaal",
+			"paal d"
+		],
+		"name": "Route Paal Delftse Hout",
+		"region": "Vrijenban",
+		"lat": 52.020628,
+		"lon": 4.365953,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "b86db2a017ac4475a6b29ae9756133ed.16"
+	},
+	{
+		"keys": [
+			"roze",
+			"vlinder op"
+		],
+		"name": "Roze Vlinder Op Boom",
+		"region": "Delftse Hout",
+		"lat": 52.020739,
+		"lon": 4.370312,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "e72db6f011a94288bef0b7e5c366fb5a.16"
+	},
+	{
+		"keys": [
+			"ruij",
+			"ruitspe",
+			"ruitjes"
+		],
+		"name": "Ruijtspeeltuin",
+		"region": "Vrijenban",
+		"lat": 52.028107,
+		"lon": 4.347806,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "16edc66c1f534dd481f2d283e78777e7.16"
+	},
+	{
+		"keys": [
+			"seats"
+		],
+		"name": "Seats",
+		"region": "Buitenhof",
+		"lat": 51.995432,
+		"lon": 4.344187,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1bc97c18e23249398d55466e5089d6a3.11"
+	},
+	{
+		"keys": [
+			"solar p"
+		],
+		"name": "Solar Panel Art Sculpture",
+		"region": "Tanthof Oost",
+		"lat": 51.989877,
+		"lon": 4.368176,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9ea8f042115640409b56d04655fc6f4c.16"
+	},
+	{
+		"keys": [
+			"space e"
+		],
+		"name": "Space Engineering Faculty",
+		"region": "TU Wijk",
+		"lat": 51.989815,
+		"lon": 4.375617,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "24cf50b100f148ac9ef6f78d8733713f.16"
+	},
+	{
+		"keys": [
+			"space r",
+			"spacer"
+		],
+		"name": "Space Rocket",
+		"region": "TU Wijk",
+		"lat": 51.996933,
+		"lon": 4.373243,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a88ddfb4177140839e635813ffae4578.16"
+	},
+	{
+		"keys": [
+			"speelplas",
+			"speel plas"
+		],
+		"name": "Speelplastiek Paarden",
+		"shortName": "speelplastiek",
+		"region": "Voordijkshoorn",
+		"lat": 52.009967,
+		"lon": 4.33636,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "9ed512a36d0640f7b42db5cd0de90ee3.11"
+	},
+	{
+		"keys": [
+			"monument van d",
+			"mvdg",
+			"glastuinb"
+		],
+		"name": "Monument van de glastuinbouw",
+		"region": "Den Hoorn",
+		"lat": 52.002534,
+		"lon": 4.339053,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "dacc079d3e89456694e2de1356dfc734.16"
+	},
+	{
+		"keys": [
+			"speeltuintje va",
+			"nora e",
+			"speeltuintje n"
+		],
+		"name": "Speeltuintje Van Nora En Zoë",
+		"shortName": "speeltuintje-nz",
+		"region": "Voordijkshoorn",
+		"lat": 52.013751,
+		"lon": 4.335824,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "c293d62e58bb4085b6314d01c479b572.16"
+	},
+	{
+		"keys": [
+			"stadhuis"
+		],
+		"name": "Stadhuis Delft",
+		"region": "Centrum",
+		"lat": 52.011512,
+		"lon": 4.358703,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "c0c87dd8051d4809bba2649cc63d6cde.12"
+	},
+	{
+		"keys": [
+			"stadsherberg",
+			"de mol"
+		],
+		"name": "Stadsherberg De Mol",
+		"region": "Centrum",
+		"lat": 52.010728,
+		"lon": 4.362321,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "7bb8f0b0541f411c96f1761a255ba4cd.16"
+	},
+	{
+		"keys": [
+			"stalpaert"
+		],
+		"name": "Stalpaert van der Wiele Statue",
+		"region": "Centrum",
+		"lat": 52.013549,
+		"lon": 4.352936,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "89fe4f4dec724497825a7d749f098c7f.16"
+	},
+	{
+		"keys": [
+			"station delft-",
+			"delft zuid",
+			"delft-zuid",
+			"station delft z"
+		],
+		"name": "Station Delft-Zuid",
+		"region": "Voorhof",
+		"lat": 51.990744,
+		"lon": 4.365052,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a44ad081bac648e6bc7b7fe9f56241ac.11"
+	},
+	{
+		"keys": [
+			"statue",
+			"prometh"
+		],
+		"name": "Statue Of Prometheus",
+		"shortName": "prometheus",
+		"region": "TU Wijk",
+		"lat": 52.001391,
+		"lon": 4.373127,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "674e9fd38197496cb752aec18b0feb61.16"
+	},
+	{
+		"keys": [
+			"stonehenge",
+			"stonehedge"
+		],
+		"name": "Stonehenge,Delft",
+		"region": "Hof van Delft",
+		"lat": 52.006174,
+		"lon": 4.352684,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "b8b5e8e02c144e88927f1aeb6e1ba122.16"
+	},
+	{
+		"keys": [
+			"stop c",
+			"child labor",
+			"child labour"
+		],
+		"name": "Stop Child Labor Wall Painting",
+		"region": "Hof van Delft",
+		"lat": 52.00487,
+		"lon": 4.350381,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "64c49587050247e2969a07be46fbe756.16"
+	},
+	{
+		"keys": [
+			"street a"
+		],
+		"name": "Street Art",
+		"region": "TU Wijk",
+		"lat": 51.997631,
+		"lon": 4.372725,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "273605f2fcf045ee822008a79c1653a0.16"
+	},
+	{
+		"keys": [
+			"sudden"
+		],
+		"name": "Sudden Cow",
+		"region": "Centrum",
+		"lat": 52.008477,
+		"lon": 4.362021,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"sint s"
+		],
+		"name": "Sint Sebastiaan 1966",
+		"region": "Centrum",
+		"lat": 52.008381,
+		"lon": 4.364813,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-07-12",
+		"guid": "27f277129e0c4ae8a90b27bb777514eb.16"
+	},
+	{
+		"keys": [
+			"symbio"
+		],
+		"name": "Symbiobrug",
+		"region": "Ruiven",
+		"lat": 51.984131,
+		"lon": 4.387924,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "5cdbc10a2971475bbb0a303d33e064fa.16"
+	},
+	{
+		"keys": [
+			"technische",
+			"technische u",
+			"ewi"
+		],
+		"name": "Technische Universiteit Delft - EWI",
+		"region": "TU Wijk",
+		"lat": 51.998488,
+		"lon": 4.373694,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "b35ddbf4bab44babba8c5a3a8077e3a2.11"
+	},
+	{
+		"keys": [
+			"trapveld e",
+			"trap en gooi v",
+			"trap en gooiveld d",
+			"tegvdh",
+			"trapveld d"
+		],
+		"name": "Trapveld En Gooi Veld Den Hoorn",
+		"region": "Den Hoorn",
+		"lat": 52.000197,
+		"lon": 4.325806,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1021222ef26249c6bcfe66b267b73f01.16"
+	},
+	{
+		"keys": [
+			"whale",
+			"the whale"
+		],
+		"name": "The Whale",
+		"region": "Voorhof",
+		"lat": 51.996611,
+		"lon": 4.349539,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "9d82e1aca3184bfd836bf3861e9df1b8.16"
+	},
+	{
+		"keys": [
+			"tiny c"
+		],
+		"name": "Tiny Castle",
+		"region": "Tanthof Oost",
+		"lat": 51.98461,
+		"lon": 4.361255,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "8acd7ac537444960a3518e308d076aaa.11"
+	},
+	{
+		"keys": [
+			"tu ch",
+			"tu delft - christiaan",
+			"tu delft christiaan",
+			"christiaan"
+		],
+		"name": "TU Delft - Christiaan Huygens Statue",
+		"region": "TU Wijk",
+		"lat": 51.998928,
+		"lon": 4.373667,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "161e0c06e70f4724b8ddee7f6fa1a36e.11"
+	},
+	{
+		"keys": [
+			"tu delft pyramide",
+			"pyramide",
+			"floppy"
+		],
+		"name": "Floppy Tower",
+		"region": "TU Wijk",
+		"lat": 52.002413,
+		"lon": 4.371411,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "b3a9589798c94e66964d65bd252b46f9.16"
+	},
+	{
+		"keys": [
+			"2 haasje",
+			"twee h",
+			"haasje over"
+		],
+		"name": "Twee haasje over spelende kinderen",
+		"region": "Voorhof",
+		"lat": 51.999372,
+		"lon": 4.354233,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "2fcf462c5f344f4ca766ded0035890e8.11"
+	},
+	{
+		"keys": [
+			"uil t",
+			"totempaal"
+		],
+		"name": "Uil Totempaal",
+		"region": "Hof van Delft",
+		"lat": 52.009896,
+		"lon": 4.344514,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "542419f726104ece8ffaeab29cdd8ca4.16"
+	},
+	{
+		"keys": [
+			"uitkijkpunt"
+		],
+		"name": "Uitkijkpunt",
+		"region": "Delftse Hout",
+		"lat": 52.018631,
+		"lon": 4.381688,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e5ddfc8e4155427e904f705d44a3fedc.16"
+	},
+	{
+		"keys": [
+			"uitlaatstrook"
+		],
+		"name": "Uitlaatstrook",
+		"region": "Buitenhof",
+		"lat": 51.990166,
+		"lon": 4.344268,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "2f49fae150b942689839cc9e1e6d1c10.16"
+	},
+	{
+		"keys": [
+			"van",
+			"van bl",
+			"blommenst",
+			"vbv"
+		],
+		"name": "Van Blommensteinstraat Voetbalveldje",
+		"region": "Voordijkshoorn",
+		"lat": 52.010711,
+		"lon": 4.335601,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "61ba8ec482e443dea64d81719d79185e.16"
+	},
+	{
+		"keys": [
+			"van",
+			"vanons",
+			"van ons"
+		],
+		"name": "Van Ons",
+		"region": "Delfgauw",
+		"lat": 52.004635,
+		"lon": 4.391642,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "2e8b15e272f64470bdbdcaae901c7223.16"
+	},
+	{
+		"keys": [
+			"veld 2"
+		],
+		"name": "Veld 23",
+		"region": "Voordijkshoorn",
+		"lat": 52.008865,
+		"lon": 4.329031,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2,
+		"guid": "7dd477eb92134842952b8c9e0a3fcb1b.16"
+	},
+	{
+		"keys": [
+			"verkeer"
+		],
+		"name": "Verkeer",
+		"region": "Delfgauw",
+		"lat": 52.005449,
+		"lon": 4.396889,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "b471c74e087040f99e404a4c9ab168cf.16"
+	},
+	{
+		"keys": [
+			"veulentje"
+		],
+		"name": "Veulentje",
+		"region": "Vrijenban",
+		"lat": 52.017652,
+		"lon": 4.364109,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "414d902a7b3646378df6e69da43e0e28.16"
+	},
+	{
+		"keys": [
+			"voormalige",
+			"voormalige u",
+			"vub"
+		],
+		"name": "Voormalige Universiteitsbibliotheek",
+		"region": "Centrum",
+		"lat": 52.016337,
+		"lon": 4.360849,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "b9ed55a2143a427f8befbef5cdb88893.16"
+	},
+	{
+		"keys": [
+			"vrouw m"
+		],
+		"name": "Vrouw Met Bloemen",
+		"region": "Tanthof Oost",
+		"lat": 51.983802,
+		"lon": 4.361726,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "2525a73659cc4206969d889eb18b99e3.16"
+	},
+	{
+		"keys": [
+			"wapenschild"
+		],
+		"name": "Wapenschild Holland",
+		"region": "Centrum",
+		"lat": 52.007476,
+		"lon": 4.359016,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "78ab95fe44dd43958d963fdbda316401.16"
+	},
+	{
+		"keys": [
+			"watertoren"
+		],
+		"name": "Watertoren",
+		"region": "Centrum",
+		"lat": 52.016766,
+		"lon": 4.35111,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "6ddda29ebecf40939cda8ed77725d841.16"
+	},
+	{
+		"keys": [
+			"wijkcentrum d",
+			"de parel",
+			"vermeertoren"
+		],
+		"name": "Wijkcentrum De Parel",
+		"region": "Voordijkshoorn",
+		"lat": 52.012699,
+		"lon": 4.338209,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a4d88ed9ace54ff4ae73b192914c12cd.16"
+	},
+	{
+		"keys": [
+			"wild b",
+			"wildbe",
+			"beehou"
+		],
+		"name": "Wild Bee House",
+		"region": "Delftse Hout",
+		"lat": 52.014796,
+		"lon": 4.374998,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "d2cc802877ba4fd09b87b63f651c9b5b.16"
+	},
+	{
+		"keys": [
+			"wilhelminalaan",
+			"trapveldje w"
+		],
+		"name": "Wilhelminalaan Trapveldje",
+		"region": "Buitenhof",
+		"lat": 51.987809,
+		"lon": 4.33962,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"dateAdded": "2019-07-19",
+		"guid": "0374c2adb26a4a93a0ea76a1e1f14b8d.16"
+	},
+	{
+		"keys": [
+			"willem",
+			"willem va",
+			"wvo",
+			"wdz"
+		],
+		"name": "Willem van Oranje (Willem de Z",
+		"region": "Centrum",
+		"lat": 52.012072,
+		"lon": 4.354239,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "1098a9e4cc4546aea57f3b461e9fa7d1.12"
+	},
+	{
+		"keys": [
+			"wood f"
+		],
+		"name": "Wood Frog",
+		"region": "Delftse Hout",
+		"lat": 52.013545,
+		"lon": 4.382679,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "7a6a5587987a4eb5ac15b4c14f6efc46.16"
+	},
+	{
+		"keys": [
+			"wooden p"
+		],
+		"name": "Wooden Playground",
+		"region": "Den Hoorn",
+		"lat": 52.003651,
+		"lon": 4.324802,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "46b91248496d4cd3b441ae872d6096cd.16"
+	},
+	{
+		"keys": [
+			"world a"
+		],
+		"name": "World Art Delft",
+		"region": "Ruiven",
+		"lat": 51.980018,
+		"lon": 4.387432,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "3f09451413b04940872a2bbe7ea3cbde.16"
+	},
+	{
+		"keys": [
+			"zeehond"
+		],
+		"name": "Zeehond",
+		"region": "Buitenhof",
+		"lat": 51.989169,
+		"lon": 4.334051,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1576176fa87e4ba4a16656569d54b80c.16"
+	},
+	{
+		"keys": [
+			"zoes",
+			"zoës",
+			"zoas",
+			"zoës",
+			"zoe's"
+		],
+		"name": "Zoës Birdhouse",
+		"region": "Voordijkshoorn",
+		"lat": 52.016032,
+		"lon": 4.333929,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e40111f2e48b49508c498ca09a9f7e2b.16"
+	},
+	{
+		"keys": [
+			"zonnewijzer",
+			"zonnenwijzer"
+		],
+		"name": "Zonnewijzer",
+		"region": "Hof van Delft",
+		"lat": 52.012535,
+		"lon": 4.348932,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "8feb774856e04463a031e4d1d8f1ba44.16"
+	},
+	{
+		"keys": [
+			"zwaluwb"
+		],
+		"name": "Zwaluwbrug",
+		"region": "Vrijenban",
+		"lat": 52.026368,
+		"lon": 4.353609,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "6a22714e9b174db099d6812a131af4b8.16"
+	},
+	{
+		"keys": [
+			"zwarte z"
+		],
+		"name": "Zwarte Zwaan",
+		"region": "Vrijenban",
+		"lat": 52.023902,
+		"lon": 4.353621,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "6b362aa0e25849d0912ed1db9d17b95e.16"
+	},
+	{
+		"keys": [
+			"scheepvaart"
+		],
+		"name": "Scheepvaart Beeld",
+		"region": "Schipluiden",
+		"lat": 51.973334,
+		"lon": 4.31462,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e46c63bc1f6f4c028be62b66c268d0b8.16"
+	},
+	{
+		"keys": [
+			"wandelroute knooppunt 34",
+			"wandelroute knoopunt 34",
+			"knooppunt 34",
+			"knoopunt 34"
+		],
+		"name": "Wandelroute Knooppunt 34",
+		"region": "Schipluiden",
+		"lat": 51.980326,
+		"lon": 4.319642,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-10-30",
+		"guid": "b8ac5294ab394f24ab58ef3c5932f34f.16"
+	},
+	{
+		"keys": [
+			"fietsroutenetwerk z",
+			"fietsroutenetwerk zu",
+			"fietsroute netwerk z",
+			"fietsroutenetwerk zuid-holland",
+			"fzh"
+		],
+		"name": "fietsroutenetwerk Zuid-Holland",
+		"region": "Tanthof Oost",
+		"lat": 51.974548,
+		"lon": 4.370466,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-10-14",
+		"guid": "1409abeb1cd44c3c83fcc14fb4fbd119.16"
+	},
+	{
+		"keys": [
+			"korper"
+		],
+		"name": "Korpershoek",
+		"region": "Schipluiden",
+		"lat": 51.973155,
+		"lon": 4.31113,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"dateAdded": "2019-10-05",
+		"guid": "ab1aaca6c99a468a9b1767d3a9cb4d2d.16"
+	},
+	{
+		"keys": [
+			"delflandse r"
+		],
+		"name": "Delflandse rolpalen",
+		"region": "Schipluiden",
+		"lat": 51.978954,
+		"lon": 4.318202,
+		"description": 0,
+		"problem": 0,
+		"park": 0,
+		"dateAdded": "2019-09-25",
+		"guid": "b934b7a17cfb474d9d4ddab86771d9c2.16"
+	},
+	{
+		"keys": [
+			"kamer van de"
+		],
+		"name": "Kamer Van De Seizoenen",
+		"region": "Het Woudt",
+		"lat": 51.995648,
+		"lon": 4.296022,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "8f64be43ac9d419db99e9a67b76bb067.16"
+	},
+	{
+		"keys": [
+			"bergboezem"
+		],
+		"name": "Bergboezem Polder Berkel",
+		"region": "Oude Leede",
+		"lat": 51.993551,
+		"lon": 4.447406,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a8cbe25413fd4692b1d88874b2b0913c.16"
+	},
+	{
+		"keys": [
+			"kampeer"
+		],
+		"name": "Kampeerterrein Scouting",
+		"region": "Pijnacker",
+		"lat": 52.032466,
+		"lon": 4.415931,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9e592a33460f4fc69e8d5e6a2b27fd7a.16"
+	},
+	{
+		"keys": [
+			"boss",
+			"bosch"
+		],
+		"name": "Bosschages",
+		"region": "Bieslandse Bos",
+		"lat": 52.029754,
+		"lon": 4.387766,
+		"description": 0,
+		"park": 1,
+		"problem": 0,
+		"guid": "e64b27dfaac74afd90895795635d71b9.16"
+	},
+	{
+		"keys": [
+			"nature e"
+		],
+		"name": "Nature Explanation And Routes",
+		"region": "Bieslandse Bos",
+		"lat": 52.026402,
+		"lon": 4.410621,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "f1d180d3d7034ab3bae827bc29173b77.16"
+	},
+	{
+		"keys": [
+			"dorpskerk sch"
+		],
+		"name": "Dorpskerk Schipluiden",
+		"region": "Schipluiden",
+		"lat": 51.978016,
+		"lon": 4.317026,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "8a1c68bb926b4a5ba796843036c1aef9.16"
+	},
+	{
+		"keys": [
+			"kasteel k",
+			"keenenburg"
+		],
+		"name": "Kasteel Keenenburg",
+		"region": "Schipluiden",
+		"lat": 51.97673,
+		"lon": 4.317855,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "28fcba32964f453f92747142626c270b.16"
+	},
+	{
+		"keys": [
+			"holy c"
+		],
+		"name": "Holy Cow",
+		"region": "Schipluiden",
+		"lat": 51.975544,
+		"lon": 4.314448,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "aae257ae8cb548b09b50621b9e732c94.16"
+	},
+	{
+		"keys": [
+			"kaart"
+		],
+		"name": "Kaart",
+		"region": "Schipluiden",
+		"lat": 51.971612,
+		"lon": 4.321694,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "cd91abb1f4f74b66aeea537fbc5eb374.16"
+	},
+	{
+		"keys": [
+			"gemaal van de pl"
+		],
+		"name": "Gemaal Van De Plaspoel- En Schaapweipolder 1873",
+		"region": "Rijswijk",
+		"lat": 52.035757,
+		"lon": 4.345015,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "9d5f2e9be82945f9a664cfc2155336a9.16"
+	},
+	{
+		"keys": [
+			"speeltuin wil"
+		],
+		"name": "Speeltuin Wilhelminapark",
+		"region": "Rijswijk",
+		"lat": 52.025443,
+		"lon": 4.327613,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "dba84c2436344ece84763e627774ffb7.16"
+	},
+	{
+		"keys": [
+			"orchidee",
+			"orgide"
+		],
+		"name": "Orchidee",
+		"region": "Bieslandse Bos",
+		"lat": 52.005564,
+		"lon": 4.429036,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e43f789901294ebb8b73cd2d9346f129.16"
+	},
+	{
+		"keys": [
+			"hond m",
+			"hondm"
+		],
+		"name": "Hond met vaas",
+		"region": "Pijnacker",
+		"lat": 52.016692,
+		"lon": 4.421854,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"fietsknooppunt 87",
+			"fiets knooppunt 87",
+			"fietsknoopunt 87",
+			"fiets knoopunt 87"
+		],
+		"name": "Fietsknooppunt 87",
+		"region": "Bieslandse Bos",
+		"lat": 52.027667,
+		"lon": 4.408351,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "2de73adb8d354ab7971e05ce7143c7ce.16"
+	},
+	{
+		"keys": [
+			"aquare",
+			"aqua are",
+			"aquaare"
+		],
+		"name": "Aquarena",
+		"region": "Bieslandse Bos",
+		"lat": 52.030857,
+		"lon": 4.394258,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "0cd4f7af1a504f2396af1522b07bf707.16"
+	},
+	{
+		"keys": [
+			"happy h"
+		],
+		"name": "Happy Hippos",
+		"region": "Vrijenban",
+		"lat": 52.012874,
+		"lon": 4.367286,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"moose"
+		],
+		"name": "Moose Toy",
+		"region": "Delftse Hout",
+		"lat": 52.012204,
+		"lon": 4.380301,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"mural poot"
+		],
+		"name": "Mural Pootstraat Carthuyzerstraat",
+		"region": "Hof van Delft",
+		"lat": 52.005633,
+		"lon": 4.351871,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"prinses i",
+			"princes i",
+			"irene"
+		],
+		"name": "Prinses Irene Tunnel",
+		"region": "Centrum",
+		"lat": 52.003666,
+		"lon": 4.356808,
+		"description": "Bestaat niet meer",
+		"park": 0,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"tno"
+		],
+		"name": "TNO",
+		"region": "TU Wijk",
+		"lat": 51.999164,
+		"lon": 4.380288,
+		"description": "Bestaat niet meer",
+		"park": 1,
+		"problem": 2
+	},
+	{
+		"keys": [
+			"vogel spot",
+			"vsap"
+		],
+		"name": "Vogel spotplek Ackerdijkse Plassen",
+		"region": "Oude Leede",
+		"lat": 51.977833,
+		"lon": 4.403866,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a3ae634ef7d34f3d93d42bd800373ad3.16"
+	},
+	{
+		"keys": [
+			"blauwe bal"
+		],
+		"name": "Blauwe Bal",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.03924,
+		"lon": 4.364751,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "0b315775ce4e40d99118d7437c4dfa26.16"
+	},
+	{
+		"keys": [
+			"craeyenburch b"
+		],
+		"name": "Craeyenburch Bells",
+		"region": "Nootdorp",
+		"lat": 52.039175,
+		"lon": 4.381675,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "f07fb179300a48e5af720dc1607be30f.16"
+	},
+	{
+		"keys": [
+			"de dobbeplas",
+			"dobbeplas"
+		],
+		"name": "De Dobbeplas",
+		"region": "Nootdorp",
+		"lat": 52.034989,
+		"lon": 4.405375,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "4ab3429d53c04111a34aa3103c99f938.16"
+	},
+	{
+		"keys": [
+			"gele lis"
+		],
+		"name": "Gele Lis Speeltuin",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.029668,
+		"lon": 4.38162,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "3b992c72d89948a481bc2c81befa0e9f.16"
+	},
+	{
+		"keys": [
+			"glijg"
+		],
+		"name": "Glijgangen",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.034868,
+		"lon": 4.356454,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "aedc77c32ff04b778d2353df2f450ffe.16"
+	},
+	{
+		"keys": [
+			"happy c"
+		],
+		"name": "Happy Calf",
+		"region": "Nootdorp",
+		"lat": 52.043292,
+		"lon": 4.393646,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "71be7e0ae7be4bd5862e18d7393680b8.16"
+	},
+	{
+		"keys": [
+			"protestantse gemeente"
+		],
+		"name": "Protestantse Gemeente - Nieuwe Kerk",
+		"region": "Rijswijk",
+		"lat": 52.040044,
+		"lon": 4.313822,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1f033b3306be43d88e5408f15e526719.16"
+	},
+	{
+		"keys": [
+			"social s"
+		],
+		"name": "Social Sofa - Ypenburg Centrum",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.042287,
+		"lon": 4.370452,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "7b3e03a3f8c545cb8c4efbf23cb0e9fb.16"
+	},
+	{
+		"keys": [
+			"speelaanleiding stiemensvaart 2",
+			"speelaanleiding 2",
+			"speelaanleiding"
+		],
+		"name": "Speelaanleiding Stiemensvaart 2",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.035233,
+		"lon": 4.369796,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "e8496207861e478880e515f43359d0f1.16"
+	},
+	{
+		"keys": [
+			"sport en spel"
+		],
+		"name": "Sport En Spel",
+		"region": "Nootdorp",
+		"lat": 52.042349,
+		"lon": 4.391298,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "878033ef56f540eb9e062c951bce3a90.16"
+	},
+	{
+		"keys": [
+			"the pi",
+			"pink ring"
+		],
+		"name": "The Pink Ring",
+		"region": "Rijswijk",
+		"lat": 52.04357,
+		"lon": 4.308514,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "bad4c029cce34ddbb89804b77f18815c.16"
+	},
+	{
+		"keys": [
+			"top do"
+		],
+		"name": "TOP Dobbeplas",
+		"region": "Nootdorp",
+		"lat": 52.03619,
+		"lon": 4.403587,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "bc4a11bded5f4e21acc65fee1bb63c89.16"
+	},
+	{
+		"keys": [
+			"water q",
+			"water c"
+		],
+		"name": "Water qube",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.039822,
+		"lon": 4.373972,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "f4e48e08e39144dd852d7b98918961f7.16"
+	},
+	{
+		"keys": [
+			"water s"
+		],
+		"name": "Water Shrine",
+		"region": "Rijswijk",
+		"lat": 52.030046,
+		"lon": 4.323746,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "5c078fd5992244769114235c12693cec.16"
+	},
+	{
+		"keys": [
+			"fords p",
+			"forts p"
+		],
+		"name": "Fords Playground",
+		"region": "Nootdorp",
+		"lat": 52.042008,
+		"lon": 4.385946,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "a5f03278745c4aab89f083aa50adb269.16"
+	},
+	{
+		"keys": [
+			"flags",
+			"vlaggenf"
+		],
+		"name": "Vlaggenfeest",
+		"region": "Rijswijk",
+		"lat": 52.039531,
+		"lon": 4.335978,
+		"description": 0,
+		"park": 0,
+		"problem": 0,
+		"guid": "1724c44e6338444c951470300ab30c19.16"
+	},
+	{
+		"keys": [
+			"event plaza"
+		],
+		"name": "Event Plaza",
+		"region": "Rijswijk",
+		"lat": 52.031811,
+		"lon": 4.330896,
+		"description": "",
+		"park": 1,
+		"problem": 0,
+		"guid": "04427b9a721e46cabaff32d0998752a0.16"
+	},
+	{
+		"keys": [
+			"tree art 2"
+		],
+		"name": "Tree Art 2",
+		"region": "Polders Schipluiden",
+		"lat": 51.96321,
+		"lon": 4.312834,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "65890cb2d87748d98eebf73a18df8812.16"
+	},
+	{
+		"keys": [
+			"chess tables"
+		],
+		"name": "Chess Tables",
+		"region": "Rijswijk",
+		"lat": 52.030069,
+		"lon": 4.324588,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7f1074cf2ff349dba26802a678c434f8.16"
+	},
+	{
+		"keys": [
+			"rijswijkse hocke"
+		],
+		"name": "Rijswijkse Hockey Club",
+		"region": "Rijswijk",
+		"lat": 52.030216,
+		"lon": 4.334508,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ab4b1b1a47f44873905c333f9eb3c590.16"
+	},
+	{
+		"keys": [
+			"rws hoofdgebouw"
+		],
+		"name": "RWS Hoofdgebouw",
+		"region": "Rijswijk",
+		"lat": 52.036184,
+		"lon": 4.325962,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c346a7c7e27342ecb2536e459d966e76.16"
+	},
+	{
+		"keys": [
+			"hoofdgemaal rijs"
+		],
+		"name": "Hoofdgemaal Rijskade 1915",
+		"region": "Pijnacker",
+		"lat": 52.018558,
+		"lon": 4.420689,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "0fdae9ddee704f27961eed9a62a9af51.16"
+	},
+	{
+		"keys": [
+			"dolphin slide st"
+		],
+		"name": "Dolphin Slide Statue",
+		"region": "Pijnacker",
+		"lat": 52.026505,
+		"lon": 4.425653,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ac7cbf58b45e4b13a85ec8c12b79416c.16"
+	},
+	{
+		"keys": [
+			"koningslinde boo"
+		],
+		"name": "Koningslinde Boom",
+		"region": "Pijnacker",
+		"lat": 52.029325,
+		"lon": 4.424854,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "2cf4db5ab2a941b1936a4efe7f4e47b4.16"
+	},
+	{
+		"keys": [
+			"zwembad de vierg"
+		],
+		"name": "Zwembad De Viergang",
+		"region": "Pijnacker",
+		"lat": 52.025161,
+		"lon": 4.422498,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "4ecaa33cbe5a401981cea894617165ed.16"
+	},
+	{
+		"keys": [
+			"eerzucht, strijd"
+		],
+		"name": "Eerzucht, Strijdlust, Souplesse, Samenhorigheid, Passie",
+		"region": "Pijnacker",
+		"lat": 52.024677,
+		"lon": 4.42113,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "49cb1f05d36e4aeb9842fbe0d365ef83.16"
+	},
+	{
+		"keys": [
+			"nootdorpse molen"
+		],
+		"name": "Nootdorpse Molen",
+		"region": "Nootdorp",
+		"lat": 52.037141,
+		"lon": 4.403668,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "17651d7d7d38497d962b33d6c1bdc742.11"
+	},
+	{
+		"keys": [
+			"firetruck"
+		],
+		"name": "Firetruck",
+		"region": "Pijnacker",
+		"lat": 52.000581,
+		"lon": 4.438462,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "d40fd83fb66044a89d1e6069a4dd70c3.16"
+	},
+	{
+		"keys": [
+			"wigwam glijbaan",
+			"wigwam glijbaan r"
+		],
+		"name": "Wigwam Glijbaan Replaced",
+		"region": "Pijnacker",
+		"lat": 52.002204,
+		"lon": 4.437402,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "4b23860d26ab429e96d430a5139e2fee.16"
+	},
+	{
+		"keys": [
+			"moeder en kind"
+		],
+		"name": "Moeder En Kind",
+		"region": "Pijnacker",
+		"lat": 52.024415,
+		"lon": 4.427887,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "af1a1732ac4b4fc7ad66c00c371004c8.16"
+	},
+	{
+		"keys": [
+			"knotwilg"
+		],
+		"name": "Knotwilg",
+		"region": "Pijnacker",
+		"lat": 52.024963,
+		"lon": 4.43038,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7a5026489f5442eb9a56f616cfe037ba.16"
+	},
+	{
+		"keys": [
+			"de rups"
+		],
+		"name": "De Rups",
+		"region": "Pijnacker",
+		"lat": 52.023075,
+		"lon": 4.434709,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c561e18eed0947c2b2bea2d6fd7969be.16"
+	},
+	{
+		"keys": [
+			"oorlogsmonument"
+		],
+		"name": "Oorlogsmonument",
+		"region": "Pijnacker",
+		"lat": 52.019802,
+		"lon": 4.435097,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "a0493b4b478841ffbb6867e17d467113.11"
+	},
+	{
+		"keys": [
+			"metrostation pijnacker c"
+		],
+		"name": "Metrostation Pijnacker Centrum",
+		"region": "Pijnacker",
+		"lat": 52.020373,
+		"lon": 4.436959,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "06d775374daf49e4bceb6b09d6bbf012.16"
+	},
+	{
+		"keys": [
+			"dubbele jasmijn"
+		],
+		"name": "Dubbele Jasmijn",
+		"region": "Pijnacker",
+		"lat": 52.020412,
+		"lon": 4.431282,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f4519538fe9c419f8b4666524fe25271.16"
+	},
+	{
+		"keys": [
+			"joannes de doope"
+		],
+		"name": "Joannes De Dooper Kerk",
+		"region": "Pijnacker",
+		"lat": 52.020656,
+		"lon": 4.43414,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "6a7f2481d35c488d80f59ed2aefeb32b.16"
+	},
+	{
+		"keys": [
+			"play grow"
+		],
+		"name": "Play Grow",
+		"region": "Pijnacker",
+		"lat": 52.021535,
+		"lon": 4.431447,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b4d811c6c6f74623b3abb885d5f61a3c.16"
+	},
+	{
+		"keys": [
+			"colored pillars"
+		],
+		"name": "Colored Pillars",
+		"region": "Pijnacker",
+		"lat": 52.015783,
+		"lon": 4.433821,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ad6ab5604e9b440aa73509c273272da2.16"
+	},
+	{
+		"keys": [
+			"dorpskerk"
+		],
+		"name": "Dorpskerk",
+		"region": "Pijnacker",
+		"lat": 52.013165,
+		"lon": 4.432915,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b0561a02a6884bebb80f6165f810d4df.16"
+	},
+	{
+		"keys": [
+			"weeping angel"
+		],
+		"name": "Weeping Angel",
+		"region": "Pijnacker",
+		"lat": 52.012425,
+		"lon": 4.435739,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7b3aae5aaec5400c85de2173ebea9d64.16"
+	},
+	{
+		"keys": [
+			"het baken"
+		],
+		"name": "Het Baken",
+		"region": "Pijnacker",
+		"lat": 52.011772,
+		"lon": 4.436122,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "9996875debbe489193649ff1c55e2313.16"
+	},
+	{
+		"keys": [
+			"mini tipi"
+		],
+		"name": "Mini Tipi",
+		"region": "Pijnacker",
+		"lat": 52.010776,
+		"lon": 4.442773,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "33092b3b2ea64e989e2bc2c59fe6f836.16"
+	},
+	{
+		"keys": [
+			"spinnenweb"
+		],
+		"name": "Spinnenweb",
+		"region": "Pijnacker",
+		"lat": 52.011311,
+		"lon": 4.439901,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "47fd6bba990e487fadb3384aed84375b.16"
+	},
+	{
+		"keys": [
+			"slak wipkip"
+		],
+		"name": "Slak Wipkip",
+		"region": "Pijnacker",
+		"lat": 52.008989,
+		"lon": 4.441752,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "32e56107e8c940529e11a657de6e399e.16"
+	},
+	{
+		"keys": [
+			"metrostation pijnacker z"
+		],
+		"name": "Metrostation Pijnacker Zuid",
+		"region": "Pijnacker",
+		"lat": 52.005397,
+		"lon": 4.4458,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "a5ec742967af49118e85c6c6e089411c.16"
+	},
+	{
+		"keys": [
+			"tomato art"
+		],
+		"name": "Tomato Art",
+		"region": "Pijnacker",
+		"lat": 52.005698,
+		"lon": 4.444033,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "433a237ed41941b9866e43361f12bd3a.16"
+	},
+	{
+		"keys": [
+			"drie draken kop"
+		],
+		"name": "Drie Draken Kop",
+		"region": "Pijnacker",
+		"lat": 52.005713,
+		"lon": 4.441207,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c61c54c6d03f44f0ac7534ab601e91ed.16"
+	},
+	{
+		"keys": [
+			"skill game"
+		],
+		"name": "SKILL GAME 1004751",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.032451,
+		"lon": 4.390069,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "9680dac0c4d346d895dd74376f33c165.16"
+	},
+	{
+		"keys": [
+			"playground #4",
+			"playground 4"
+		],
+		"name": "Playground #4",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.032217,
+		"lon": 4.386784,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "29bee2d54ed54648a4247ba970f768f7.16"
+	},
+	{
+		"keys": [
+			"playground 2"
+		],
+		"name": "Playground 2",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.034892,
+		"lon": 4.384584,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "3f0c1b7597bf476c80d6046f1b4b4f20.16"
+	},
+	{
+		"keys": [
+			"playground #7",
+			"playground 7"
+		],
+		"name": "Playground #7",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.032015,
+		"lon": 4.376588,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "47d1c6c77eb34cdb866fd9bc25cd84f8.16"
+	},
+	{
+		"keys": [
+			"metal leafs"
+		],
+		"name": "Metal Leafs",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.031413,
+		"lon": 4.381793,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "72221e82f2564cfd85e4fa0bf80e6c58.16"
+	},
+	{
+		"keys": [
+			"play green"
+		],
+		"name": "Play Green",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.035779,
+		"lon": 4.388735,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "697eed18424e4529847082368927347e.16"
+	},
+	{
+		"keys": [
+			"pirateship playg"
+		],
+		"name": "Pirateship Playground",
+		"region": "Pijnacker",
+		"lat": 52.0163,
+		"lon": 4.436982,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "dc155403b9204625bdbcef9a868c786a.16"
+	},
+	{
+		"keys": [
+			"tell slang"
+		],
+		"name": "Tell Slang",
+		"region": "Pijnacker",
+		"lat": 52.008807,
+		"lon": 4.447236,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "249ebc364bc1432789ca7e7210ba7953.16"
+	},
+	{
+		"keys": [
+			"de scheppring"
+		],
+		"name": "DE SCHEPPRING",
+		"region": "Lansingerland",
+		"lat": 51.978184,
+		"lon": 4.446149,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b5b45015f1f6407190609b3e3a6d916d.16"
+	},
+	{
+		"keys": [
+			"waterspuiter en"
+		],
+		"name": "Waterspuiter En Hoekversieringen",
+		"region": "Pijnacker",
+		"lat": 52.01471,
+		"lon": 4.444668,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ff6da7cce30245108c8017a34fd2c542.16"
+	},
+	{
+		"keys": [
+			"ontmoetingskerk"
+		],
+		"name": "Ontmoetingskerk",
+		"region": "Pijnacker",
+		"lat": 52.012825,
+		"lon": 4.442954,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "9fd0a38fd0734fcfaf67e35a4ec393c0.16"
+	},
+	{
+		"keys": [
+			"wijkspeelplek"
+		],
+		"name": "Wijkspeelplek",
+		"region": "Pijnacker",
+		"lat": 52.021167,
+		"lon": 4.442557,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "5f6da393aa6842b483930f1ab191c2e3.16"
+	},
+	{
+		"keys": [
+			"info de balij ni"
+		],
+		"name": "Info De Balij Nieuwkoopseweg",
+		"region": "Pijnacker",
+		"lat": 52.03216,
+		"lon": 4.431076,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f43e773f8cf143fda7b4df1feed068ea.16"
+	},
+	{
+		"keys": [
+			"de balij",
+			"de balij en het"
+		],
+		"name": "De Balij en het Bieslandse Bos",
+		"region": "Pijnacker",
+		"lat": 52.038135,
+		"lon": 4.427525,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ef641d50b5ec4ea289ee353d73561878.16"
+	},
+	{
+		"keys": [
+			"blauwe brug"
+		],
+		"name": "Blauwe Brug",
+		"region": "Pijnacker",
+		"lat": 52.040292,
+		"lon": 4.444827,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b6f32a8da20d44449990080741569aed.16"
+	},
+	{
+		"keys": [
+			"social chair"
+		],
+		"name": "Social Chair",
+		"region": "Pijnacker",
+		"lat": 52.044328,
+		"lon": 4.44201,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "1f7b8ef76b724ecfa32604622b12d4d6.16"
+	},
+	{
+		"keys": [
+			"tree shrine"
+		],
+		"name": "Tree Shrine",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.034392,
+		"lon": 4.354217,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "1f659310cae94b31b7b5e5654f5885ef.16"
+	},
+	{
+		"keys": [
+			"herinnering"
+		],
+		"name": "Herinnering",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.035955,
+		"lon": 4.364062,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "eb0a6806b69f459e99985805c1f5c171.16"
+	},
+	{
+		"keys": [
+			"synchroon"
+		],
+		"name": "Synchroon",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.035546,
+		"lon": 4.364362,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f090996934a743c09ed104c1e24d35f8.16"
+	},
+	{
+		"keys": [
+			"speelaanleiding stiemensvaart 1",
+			"speelaanleiding 1",
+			"speelaanleiding"
+		],
+		"name": "Speelaanleiding Stiemensvaart 1",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.034676,
+		"lon": 4.370219,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "0b31a2587d0542ba9923eea77dc43676.16"
+	},
+	{
+		"keys": [
+			"strandbeesten wo"
+		],
+		"name": "Strandbeesten Workshop",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.037376,
+		"lon": 4.354176,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "860280d442dc477dbd604aea7b550e09.16"
+	},
+	{
+		"keys": [
+			"stormbaan roontj"
+		],
+		"name": "Stormbaan Roontjuh",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.037307,
+		"lon": 4.357388,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f86ac4d16b084fa8b6878a4746d57ab6.16"
+	},
+	{
+		"keys": [
+			"gemaal van de po"
+		],
+		"name": "Gemaal van de Polder van Ypenburg",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.045943,
+		"lon": 4.358724,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "5b7c0e07315e4fbba7b9e950a2530f29.16"
+	},
+	{
+		"keys": [
+			"a different view"
+		],
+		"name": "A Different View",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.040445,
+		"lon": 4.366042,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ecd4435961184ecda96d8c787cf2a615.16"
+	},
+	{
+		"keys": [
+			"kerk de toevluch"
+		],
+		"name": "Kerk De Toevlucht",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.042292,
+		"lon": 4.364725,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c1e67dcf22a9496ba86d4a8bf8518c03.16"
+	},
+	{
+		"keys": [
+			"ypenburg monumen"
+		],
+		"name": "Ypenburg Monument",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.040142,
+		"lon": 4.369831,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "8f439476c8c04607843f9a21634ff9b8.16"
+	},
+	{
+		"keys": [
+			"ypenburg war mon"
+		],
+		"name": "Ypenburg War Monument",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.03857,
+		"lon": 4.37094,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c3d61671853c487586c8985bd4fa3870.16"
+	},
+	{
+		"keys": [
+			"zilver bol"
+		],
+		"name": "Zilver Bol",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.040287,
+		"lon": 4.373172,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "d018af86f2ee4708a7924f285772c4e4.16"
+	},
+	{
+		"keys": [
+			"craeyenburch pub"
+		],
+		"name": "Craeyenburch Public Stage",
+		"region": "Nootdorp",
+		"lat": 52.038675,
+		"lon": 4.38146,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ee7e9053667447b78de749f518e933b0.16"
+	},
+	{
+		"keys": [
+			"polkadot"
+		],
+		"name": "Polkadot",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.041328,
+		"lon": 4.372271,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "bb90bf062c5846228ea557c3c0e9b195.16"
+	},
+	{
+		"keys": [
+			"ypenburg airport"
+		],
+		"name": "Ypenburg Airport Tower Monument",
+		"region": "Nootdorp",
+		"lat": 52.043413,
+		"lon": 4.376756,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b1d466c713f24f7e8034976ac0512e65.11"
+	},
+	{
+		"keys": [
+			"birds on buildin"
+		],
+		"name": "Birds On Buildings Looking Down",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.045966,
+		"lon": 4.378541,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "9e30e98902b0438992d707cfaa406ef6.16"
+	},
+	{
+		"keys": [
+			"speelhuisje schi"
+		],
+		"name": "Speelhuisje Schiphollaan",
+		"region": "Nootdorp",
+		"lat": 52.043858,
+		"lon": 4.382117,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7446739c56294629b060ad128ad8a692.16"
+	},
+	{
+		"keys": [
+			"winkelcentrum pa"
+		],
+		"name": "Winkelcentrum Parade",
+		"region": "Nootdorp",
+		"lat": 52.045327,
+		"lon": 4.392524,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "211e7c802a6e476088107706dae12014.11"
+	},
+	{
+		"keys": [
+			"dorpskerk van no"
+		],
+		"name": "Dorpskerk van Nootdorp",
+		"region": "Nootdorp",
+		"lat": 52.042927,
+		"lon": 4.394559,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "49f7be4fd5984891845e94ccbec5e9fd.11"
+	},
+	{
+		"keys": [
+			"heemskinderen"
+		],
+		"name": "Heemskinderen",
+		"region": "Nootdorp",
+		"lat": 52.045717,
+		"lon": 4.400261,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "1d8d8ea11ba84692ac0dd3dc81da223f.16"
+	},
+	{
+		"keys": [
+			"flap"
+		],
+		"name": "Flap",
+		"region": "Nootdorp",
+		"lat": 52.044152,
+		"lon": 4.397017,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "d1e76184370f432fb5cc24422ab8879b.16"
+	},
+	{
+		"keys": [
+			"wolverlei"
+		],
+		"name": "Wolverlei",
+		"region": "Nootdorp",
+		"lat": 52.04143,
+		"lon": 4.401024,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "de0fe560f2a1467bb4a12e6771ad27e3.16"
+	},
+	{
+		"keys": [
+			"twee kalfjes"
+		],
+		"name": "Twee Kalfjes",
+		"region": "Nootdorp",
+		"lat": 52.042004,
+		"lon": 4.405641,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "5394eacacab34e78a2687a4208fdcbae.16"
+	},
+	{
+		"keys": [
+			"the lonely woman"
+		],
+		"name": "The Lonely Woman",
+		"region": "Nootdorp",
+		"lat": 52.04374,
+		"lon": 4.406356,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "e88711e5ce864b0c811cfedf277a349c.16"
+	},
+	{
+		"keys": [
+			"rocky playground"
+		],
+		"name": "Rocky Playground",
+		"region": "Nootdorp",
+		"lat": 52.044661,
+		"lon": 4.412806,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "8544342a82cc4fbc85be5fa39ff3a5e9.16"
+	},
+	{
+		"keys": [
+			"playground nootd"
+		],
+		"name": "Playground Nootdorp",
+		"region": "Nootdorp",
+		"lat": 52.045604,
+		"lon": 4.413053,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "dc14dd59185c4e5f99a8baf38f211217.16"
+	},
+	{
+		"keys": [
+			"mouse on a block"
+		],
+		"name": "Mouse on a Block of Cheese",
+		"region": "Nootdorp",
+		"lat": 52.046741,
+		"lon": 4.413643,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "46cb875b2e6b431d8a52aa14ad11bb76.16"
+	},
+	{
+		"keys": [
+			"metrostation noo"
+		],
+		"name": "Metrostation Nootdorp",
+		"region": "Nootdorp",
+		"lat": 52.047686,
+		"lon": 4.414443,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "a3a0821723e94cde91c628f0b5454586.16"
+	},
+	{
+		"keys": [
+			"speelkasteel hof"
+		],
+		"name": "Speelkasteel Hof Van Rijnsburg",
+		"region": "Nootdorp",
+		"lat": 52.046527,
+		"lon": 4.41289,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "29c84a5ec48245b7a7883b252a8d4a8b.16"
+	},
+	{
+		"keys": [
+			"kaasboerderij"
+		],
+		"name": "Kaasboerderij",
+		"region": "Nootdorp",
+		"lat": 52.047001,
+		"lon": 4.413744,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b42ffd5935094194a8a6d8b1b036a94e.16"
+	},
+	{
+		"keys": [
+			"speeltoren"
+		],
+		"name": "Speeltoren",
+		"region": "Nootdorp",
+		"lat": 52.050064,
+		"lon": 4.401098,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "bf9ad254a94e411cb74a05f27ee1f4a0.16"
+	},
+	{
+		"keys": [
+			"birdsnest"
+		],
+		"name": "Birdsnest",
+		"region": "Nootdorp",
+		"lat": 52.049836,
+		"lon": 4.39876,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b21d009a5b684cce82fd90f18b84597c.16"
+	},
+	{
+		"keys": [
+			"hurkend meisje"
+		],
+		"name": "Hurkend Meisje",
+		"region": "Nootdorp",
+		"lat": 52.047618,
+		"lon": 4.397202,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "38b2de9c1c4940f9ad247c54c1c87662.16"
+	},
+	{
+		"keys": [
+			"bartholomeuskerk"
+		],
+		"name": "Bartholomeuskerk Nootdorp",
+		"region": "Nootdorp",
+		"lat": 52.050273,
+		"lon": 4.392187,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c32249c24b484599a0ede4c52d7b244b.16"
+	},
+	{
+		"keys": [
+			"jozefhuis"
+		],
+		"name": "Jozefhuis",
+		"region": "Nootdorp",
+		"lat": 52.049905,
+		"lon": 4.391235,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "0470897ef598481ebbbff5dc3a97c990.16"
+	},
+	{
+		"keys": [
+			"angvif er vici a"
+		],
+		"name": "ANGVIF ER VICI AGRARI I MMXI",
+		"region": "Nootdorp",
+		"lat": 52.048998,
+		"lon": 4.387078,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "d35035234a46425e94fe6483b5f4cd03.11"
+	},
+	{
+		"keys": [
+			"bloedrood"
+		],
+		"name": "Bloedrood",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.048189,
+		"lon": 4.382441,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "aacf875bca5b4ac4b5c07e886aba2d90.16"
+	},
+	{
+		"keys": [
+			"het paars pavilj"
+		],
+		"name": "Het Paars Paviljoen",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.048698,
+		"lon": 4.376385,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c69fb08dcd11485bb92eee59617ad66d.16"
+	},
+	{
+		"keys": [
+			"playground weide"
+		],
+		"name": "Playground Weidevogellaan",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.048593,
+		"lon": 4.375893,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "af5330edd06144ccb26a948e3ce6aedf.16"
+	},
+	{
+		"keys": [
+			"trapveld boswijk"
+		],
+		"name": "Trapveld Boswijk",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.048255,
+		"lon": 4.368793,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "ba4e1f8d992e480fb446267faa66ed50.16"
+	},
+	{
+		"keys": [
+			"fietsroutenetwerk h",
+			"fietsroutenetwerk haaglanden knooppunt 65",
+			"fietsroutenetwerk haaglanden knoopunt 65"
+		],
+		"name": "Fietsroutenetwerk Haaglanden Knooppunt 65",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.048916,
+		"lon": 4.362238,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "5d660bebb2c840368c9aac7d382620b4.16"
+	},
+	{
+		"keys": [
+			"lotto ball 55"
+		],
+		"name": "Lotto Ball 55",
+		"region": "Rijswijk",
+		"lat": 52.048067,
+		"lon": 4.350843,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "84ba6c81e511476dbe488da1461435c4.16"
+	},
+	{
+		"keys": [
+			"fountain"
+		],
+		"name": "Fountain",
+		"region": "Rijswijk",
+		"lat": 52.048624,
+		"lon": 4.349553,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b050836f15454befa37733c2abed0a11.16"
+	},
+	{
+		"keys": [
+			"steel swan"
+		],
+		"name": "Steel Swan",
+		"region": "Rijswijk",
+		"lat": 52.049363,
+		"lon": 4.347891,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "dcf9f48cef3b4f08b2bcf6b57f276c80.16"
+	},
+	{
+		"keys": [
+			"red shell rijswi"
+		],
+		"name": "Red Shell Rijswijk",
+		"region": "Rijswijk",
+		"lat": 52.050273,
+		"lon": 4.345852,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "12cdcc02f7ae45078f4ab943a5f33be6.11"
+	},
+	{
+		"keys": [
+			"toegang drievlie"
+		],
+		"name": "Toegang Drievliet",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.052719,
+		"lon": 4.352316,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "6ef1a2ad133046ffb859e9fbd5fc197b.16"
+	},
+	{
+		"keys": [
+			"beestenboel"
+		],
+		"name": "Beestenboel",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.053896,
+		"lon": 4.350909,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "17c54857e5b247fb8114c713283e2394.16"
+	},
+	{
+		"keys": [
+			"fontein de chine"
+		],
+		"name": "Fontein De Chinese Muur",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.056446,
+		"lon": 4.348409,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "6406b28725a54c86837c581597f6bdf0.16"
+	},
+	{
+		"keys": [
+			"stilum outdoor f"
+		],
+		"name": "Stilum Outdoor Fitness",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.053055,
+		"lon": 4.379629,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "8afd72bcd0fc4f47ba11d2ddadd6840c.16"
+	},
+	{
+		"keys": [
+			"hofbad den haag"
+		],
+		"name": "Hofbad Den Haag",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.052821,
+		"lon": 4.382972,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "59335cb62d15427dba412ec657d38c93.11"
+	},
+	{
+		"keys": [
+			"stads deelkantoo"
+		],
+		"name": "Stads Deelkantoor Ypenburg",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.054533,
+		"lon": 4.389107,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "8a3c5320ea984238bb910afa96d66e86.16"
+	},
+	{
+		"keys": [
+			"kids climbing pa"
+		],
+		"name": "kids climbing park",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.052517,
+		"lon": 4.389456,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c0b83f00541048a2992f40b70f572099.16"
+	},
+	{
+		"keys": [
+			"playground zonne"
+		],
+		"name": "Playground Zonnehof",
+		"region": "Nootdorp",
+		"lat": 52.051166,
+		"lon": 4.395639,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "2d88e8d8a01e41008e51f2d5e35c4d05.16"
+	},
+	{
+		"keys": [
+			"green bird pole"
+		],
+		"name": "Green Bird Pole",
+		"region": "Nootdorp",
+		"lat": 52.051016,
+		"lon": 4.399236,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "9ab09dc81ce548b5b2b82c221550ec1f.16"
+	},
+	{
+		"keys": [
+			"the white horse"
+		],
+		"name": "The White Horse",
+		"region": "Nootdorp",
+		"lat": 52.052236,
+		"lon": 4.40319,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "fa27aabdbb5d47569dd13e3d769c673d.16"
+	},
+	{
+		"keys": [
+			"daar is het geit"
+		],
+		"name": "Daar Is Het Geitje",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.054976,
+		"lon": 4.402249,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "bb280d3d80cf4872800b2b9602316aa5.16"
+	},
+	{
+		"keys": [
+			"two guarding dog"
+		],
+		"name": "Two Guarding Dogs - Hondjes",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.054168,
+		"lon": 4.408937,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "e99ff627648d44ed91b2238e25abbc2a.16"
+	},
+	{
+		"keys": [
+			"slapende kaboute"
+		],
+		"name": "Slapende Kabouter",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.056287,
+		"lon": 4.397416,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "eeca33db998e4668b8c4bf4027a044d5.16"
+	},
+	{
+		"keys": [
+			"speeltuin westma"
+		],
+		"name": "Speeltuin Westmaasstraat",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.058104,
+		"lon": 4.400703,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "0e965f34153a448a9b1c4e28f69c5cc5.16"
+	},
+	{
+		"keys": [
+			"church"
+		],
+		"name": "Church",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.057052,
+		"lon": 4.407513,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b27e6a967c0c4f199153c7261b0a9619.16"
+	},
+	{
+		"keys": [
+			"three swings"
+		],
+		"name": "Three Swings",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.058869,
+		"lon": 4.410925,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "e7a70ca0c69e4ba796c41f939db37227.16"
+	},
+	{
+		"keys": [
+			"basketbal"
+		],
+		"name": "Basketbal",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.058709,
+		"lon": 4.414598,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "2813a0fa0e9e4ee183e84b8568099499.16"
+	},
+	{
+		"keys": [
+			"four slides"
+		],
+		"name": "Four Slides",
+		"region": "Leidschenveen-Ypenburg",
+		"lat": 52.058306,
+		"lon": 4.417969,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "e2e301d2def746638f0ea502ce20701a.16"
+	},
+	{
+		"keys": [
+			"phoenix"
+		],
+		"name": "Phoenix",
+		"region": "Rijswijk",
+		"lat": 52.021666,
+		"lon": 4.307006,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f834bb36eef8407d80a2bda1478cfdfb.11"
+	},
+	{
+		"keys": [
+			"scouting knoop s"
+		],
+		"name": "Scouting Knoop Symbol",
+		"region": "Rijswijk",
+		"lat": 52.026204,
+		"lon": 4.305682,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f64bb2ceaf8a4ca48939b9e4cf84a5fe.16"
+	},
+	{
+		"keys": [
+			"lil max propello"
+		],
+		"name": "Lil Max Propellor Portal",
+		"region": "Rijswijk",
+		"lat": 52.027164,
+		"lon": 4.307461,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b4c5ff9abf5c48db9c59060d23d69162.16"
+	},
+	{
+		"keys": [
+			"jupiter"
+		],
+		"name": "Jupiter",
+		"region": "Rijswijk",
+		"lat": 52.024878,
+		"lon": 4.318894,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "938fe4e5a2b249fe81be2dafd542935e.16"
+	},
+	{
+		"keys": [
+			"saturnus"
+		],
+		"name": "Saturnus",
+		"region": "Rijswijk",
+		"lat": 52.024999,
+		"lon": 4.318286,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "617cf69be9f44b3180cfc94dfee5e3b4.16"
+	},
+	{
+		"keys": [
+			"arbeidsbelang"
+		],
+		"name": "Arbeidsbelang",
+		"region": "Rijswijk",
+		"lat": 52.028852,
+		"lon": 4.319052,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "a9e61275ece4429bb56fd561c4cc99c6.16"
+	},
+	{
+		"keys": [
+			"petrus bankje"
+		],
+		"name": "Petrus Bankje",
+		"region": "Rijswijk",
+		"lat": 52.029576,
+		"lon": 4.310216,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "abaf1da44e7248d19e00bbc7936f49a5.16"
+	},
+	{
+		"keys": [
+			"wijkcentrum ster"
+		],
+		"name": "Wijkcentrum Stervoorde",
+		"region": "Rijswijk",
+		"lat": 52.031896,
+		"lon": 4.310899,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b57c8de70f624ac582317e9f40ecedfa.11"
+	},
+	{
+		"keys": [
+			"clock tower"
+		],
+		"name": "Clock Tower",
+		"region": "Rijswijk",
+		"lat": 52.033088,
+		"lon": 4.311718,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "1ebd4d34590b4f7f86cf76cd5e5dfdfe.16"
+	},
+	{
+		"keys": [
+			"art antenna s"
+		],
+		"name": "Art Antenna S",
+		"region": "Rijswijk",
+		"lat": 52.03148,
+		"lon": 4.304704,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7cddca7fdf924b889958038962775daa.16"
+	},
+	{
+		"keys": [
+			"het seizoen - da"
+		],
+		"name": "Het Seizoen - Daar danst zij opgewonden in een wolk van verlangen",
+		"region": "Rijswijk",
+		"lat": 52.032274,
+		"lon": 4.302062,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "8c971446ffd443cda70790b78ee077a6.11"
+	},
+	{
+		"keys": [
+			"het seizoen"
+		],
+		"name": "Het Seizoen",
+		"region": "Rijswijk",
+		"lat": 52.033368,
+		"lon": 4.301316,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "89b4a52be7ba49edbf1bfb5e3e540c06.11"
+	},
+	{
+		"keys": [
+			"het seizoen - wa"
+		],
+		"name": "Het Seizoen - Waar de wijn die vloeit in overvloed",
+		"region": "Rijswijk",
+		"lat": 52.034374,
+		"lon": 4.300644,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b3b64a162e1c44f38ccf0113c0266a88.11"
+	},
+	{
+		"keys": [
+			"reiger statue"
+		],
+		"name": "Reiger Statue",
+		"region": "Rijswijk",
+		"lat": 52.035197,
+		"lon": 4.299977,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "4392c1a002be4d218a4b13c288f38190.16"
+	},
+	{
+		"keys": [
+			"local park overv"
+		],
+		"name": "Local Park Overvoorde de Voorde Steenvoorde",
+		"region": "Rijswijk",
+		"lat": 52.04198,
+		"lon": 4.297538,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b6e1296650b4488288579d65dae45769.16"
+	},
+	{
+		"keys": [
+			"huis overvoorde"
+		],
+		"name": "Huis Overvoorde",
+		"region": "Rijswijk",
+		"lat": 52.043912,
+		"lon": 4.3009,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7e24e5ad12094991ae420a7319410be4.16"
+	},
+	{
+		"keys": [
+			"bankje van s. va"
+		],
+		"name": "Bankje van S. van Hulst",
+		"region": "Rijswijk",
+		"lat": 52.036818,
+		"lon": 4.30551,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "eca261632ad6418390c5271db2f0960f.16"
+	},
+	{
+		"keys": [
+			"steenvoorde"
+		],
+		"name": "Steenvoorde",
+		"region": "Rijswijk",
+		"lat": 52.037971,
+		"lon": 4.308412,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "25c3d3fad77b496ea16278b17c5957b6.16"
+	},
+	{
+		"keys": [
+			"hooglanders"
+		],
+		"name": "Hooglanders op 't dak",
+		"region": "Rijswijk",
+		"lat": 52.036071,
+		"lon": 4.314659,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "34747a4d411b40d4b482f4f52a27b862.16"
+	},
+	{
+		"keys": [
+			"ijskristal"
+		],
+		"name": "IJskristal",
+		"region": "Rijswijk",
+		"lat": 52.043924,
+		"lon": 4.311264,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "5f55043dfdee4ee2985d66550c7f08e1.11"
+	},
+	{
+		"keys": [
+			"playground 2"
+		],
+		"name": "Playground 2",
+		"region": "Rijswijk",
+		"lat": 52.042774,
+		"lon": 4.314099,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "872f2c4c78134d34a1dcca5b9f8322f4.16"
+	},
+	{
+		"keys": [
+			"station rijswijk"
+		],
+		"name": "Station Rijswijk",
+		"region": "Rijswijk",
+		"lat": 52.039568,
+		"lon": 4.319481,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "31e862980ba84cb0aaffa6832741e113.11"
+	},
+	{
+		"keys": [
+			"rijswijk pyramid"
+		],
+		"name": "Rijswijk Pyramid Field",
+		"region": "Rijswijk",
+		"lat": 52.03877,
+		"lon": 4.320503,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "5c0cd890a0d94cb4a1bbd9cd87bf6293.11"
+	},
+	{
+		"keys": [
+			"rijswijk station"
+		],
+		"name": "Rijswijk Station",
+		"region": "Rijswijk",
+		"lat": 52.037563,
+		"lon": 4.322068,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c404b25dd67f4819b024e831a28f2488.16"
+	},
+	{
+		"keys": [
+			"woningbouw veren"
+		],
+		"name": "Woningbouw Vereniging Arbeidsbelasting 65 jaar",
+		"region": "Rijswijk",
+		"lat": 52.040096,
+		"lon": 4.32473,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "2cc2be31d6c64b06a50105826cc42915.16"
+	},
+	{
+		"keys": [
+			"colourful wave"
+		],
+		"name": "Colourful Wave",
+		"region": "Rijswijk",
+		"lat": 52.032756,
+		"lon": 4.316897,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "2203b4fa801c4378a5bdc2ddc9268d2f.16"
+	},
+	{
+		"keys": [
+			"bastion hotel ri"
+		],
+		"name": "Bastion Hotel Rijswijk",
+		"region": "Rijswijk",
+		"lat": 52.035417,
+		"lon": 4.33312,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "3d2b035fe88d4bdbb42eaae9860a7d72.11"
+	},
+	{
+		"keys": [
+			"monument haagse"
+		],
+		"name": "Monument Haagse Courant",
+		"region": "Rijswijk",
+		"lat": 52.041642,
+		"lon": 4.341811,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "1c30fb37fe8b4e0a91d7b7e8bcf63fd1.16"
+	},
+	{
+		"keys": [
+			"girl in the rain"
+		],
+		"name": "Girl In The Rain",
+		"region": "Rijswijk",
+		"lat": 52.042626,
+		"lon": 4.338103,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "59c59d40f00c4a1e897632e6c9c43741.16"
+	},
+	{
+		"keys": [
+			"ribbon statue"
+		],
+		"name": "Ribbon Statue",
+		"region": "Rijswijk",
+		"lat": 52.037855,
+		"lon": 4.337089,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "d094950b1e344dc2a5b9cc6390d3597e.16"
+	},
+	{
+		"keys": [
+			"rusty art rijswi"
+		],
+		"name": "Rusty Art Rijswijk",
+		"region": "Rijswijk",
+		"lat": 52.038187,
+		"lon": 4.333225,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "554da6e9c10d4743b7016d9f91732159.16"
+	},
+	{
+		"keys": [
+			"fietsbrug delfts"
+		],
+		"name": "Fietsbrug Delftse Vliet",
+		"region": "Rijswijk",
+		"lat": 52.045788,
+		"lon": 4.343257,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "d9261d7c695e4acf92928fb9ffed22b9.16"
+	},
+	{
+		"keys": [
+			"potloden"
+		],
+		"name": "Potloden",
+		"region": "Rijswijk",
+		"lat": 52.048077,
+		"lon": 4.332785,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "15649743f3b0449ab3252ad8f21622e1.16"
+	},
+	{
+		"keys": [
+			"vogelhuis in tui"
+		],
+		"name": "Vogelhuis in Tuin",
+		"region": "Rijswijk",
+		"lat": 52.04998,
+		"lon": 4.337282,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "caadd67e7d354a99b9f57f8adb3fa4c3.16"
+	},
+	{
+		"keys": [
+			"torenklok oude s"
+		],
+		"name": "Torenklok oude stadhuis",
+		"region": "Rijswijk",
+		"lat": 52.047678,
+		"lon": 4.329544,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "09172679f9a04bf3bd109fffd01575ef.16"
+	},
+	{
+		"keys": [
+			"spiegels"
+		],
+		"name": "Spiegels",
+		"region": "Rijswijk",
+		"lat": 52.04716,
+		"lon": 4.328904,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "e74d925003f3475fadc79a7a91d6ff90.11"
+	},
+	{
+		"keys": [
+			"rijswijkse schou"
+		],
+		"name": "Rijswijkse Schouwburg",
+		"region": "Rijswijk",
+		"lat": 52.04699,
+		"lon": 4.328164,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "0e0ea9c13f1b436cb10c1e8d47169c87.16"
+	},
+	{
+		"keys": [
+			"family takes car"
+		],
+		"name": "Family Takes Care of Bird Statue",
+		"region": "Rijswijk",
+		"lat": 52.050829,
+		"lon": 4.329162,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "77fedb0bbcfd4999a834f8960fa3fa24.16"
+	},
+	{
+		"keys": [
+			"tulip sculpted i"
+		],
+		"name": "Tulip Sculpted in Wood Meerrande",
+		"region": "Rijswijk",
+		"lat": 52.0451,
+		"lon": 4.317082,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "47aed7a9a5534a6da719e2939abaa7be.16"
+	},
+	{
+		"keys": [
+			"clubhuis ter wer"
+		],
+		"name": "Clubhuis Ter Werve",
+		"region": "Rijswijk",
+		"lat": 52.048673,
+		"lon": 4.321138,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "31ef0870533745408266ab57e6477d9c.16"
+	},
+	{
+		"keys": [
+			"kroonjuweel"
+		],
+		"name": "Kroonjuweel",
+		"region": "Rijswijk",
+		"lat": 52.053527,
+		"lon": 4.327609,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "c54390325632465bb4adfdbd7d861237.11"
+	},
+	{
+		"keys": [
+			"mauvelaan relief"
+		],
+		"name": "Mauvelaan Relief I",
+		"region": "Rijswijk",
+		"lat": 52.053217,
+		"lon": 4.333463,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "3475ff135faf4dedb0e0966095c3244c.16"
+	},
+	{
+		"keys": [
+			"lindelaan founta"
+		],
+		"name": "Lindelaan Fountain",
+		"region": "Rijswijk",
+		"lat": 52.051633,
+		"lon": 4.336361,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "cb467c6594fd47638420edcf4adb558f.11"
+	},
+	{
+		"keys": [
+			"art tile of yell"
+		],
+		"name": "Art Tile of Yelling Man",
+		"region": "Rijswijk",
+		"lat": 52.056884,
+		"lon": 4.329735,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b674f703583746f08f16cfc2d0c2c573.16"
+	},
+	{
+		"keys": [
+			"hofrust kapel"
+		],
+		"name": "Hofrust Kapel",
+		"region": "Rijswijk",
+		"lat": 52.056742,
+		"lon": 4.335243,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "44932d178aac4768844e0e3da67082b8.16"
+	},
+	{
+		"keys": [
+			"wegvliegend tunn"
+		],
+		"name": "Wegvliegend Tunneldak",
+		"region": "Rijswijk",
+		"lat": 52.056763,
+		"lon": 4.33751,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "9b5d422548494c08bdcc77bc1a7915ab.16"
+	},
+	{
+		"keys": [
+			"kids playground"
+		],
+		"name": "Kids Playground",
+		"region": "Rijswijk",
+		"lat": 52.059123,
+		"lon": 4.33997,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "7ac0306b948b4e59b754bcea6fc0884e.16"
+	},
+	{
+		"keys": [
+			"laan hofrust 3-5"
+		],
+		"name": "Laan Hofrust 3-5 Wilhelmina Helena",
+		"region": "Rijswijk",
+		"lat": 52.057204,
+		"lon": 4.336044,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "cc019d1b876540b6b4afbac1a282d180.11"
+	},
+	{
+		"keys": [
+			"oorlogsmonument",
+			"oorlogsmonument w"
+		],
+		"name": "Oorlogsmonument WO-I&II, Park",
+		"region": "Rijswijk",
+		"lat": 52.057645,
+		"lon": 4.33588,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "eb5610905c9e4002966de9ff42ccc2f8.11"
+	},
+	{
+		"keys": [
+			"struisvogel pipe"
+		],
+		"name": "Struisvogel Pipeliner",
+		"region": "Rijswijk",
+		"lat": 52.057878,
+		"lon": 4.340861,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "29dcfb9491454034834f127a076fa3c4.16"
+	},
+	{
+		"keys": [
+			"planetenpark - u",
+			"planetenpark u"
+		],
+		"name": "Planetenpark - Uranus",
+		"region": "Rijswijk",
+		"lat": 52.025386,
+		"lon": 4.31724,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "16519a5fe99741eeba516f71bb1de5f0.16"
+	},
+	{
+		"keys": [
+			"molen sch"
+		],
+		"name": "Molen Schipluiden",
+		"region": "Schipluiden",
+		"lat": 51.973159,
+		"lon": 4.310123,
+		"description": 0,
+		"problem": 0,
+		"guid": "7f9d709f1d6d468693f35c6791b80fca.16",
+		"park": 0,
+		"dateAdded": "2020-01-29"
+	},
+	{
+		"keys": [
+			"commonwealth war"
+		],
+		"name": "Commonwealth War Grave",
+		"region": "Schipluiden",
+		"lat": 51.976363,
+		"lon": 4.310485,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "80b9b39232134355a8a472bfd9b076ba.16",
+		"dateAdded": "2020-02-08"
+	},
+	{
+		"keys": [
+			"grutto p"
+		],
+		"name": "Grutto Panel",
+		"region": "Schipluiden",
+		"lat": 51.991707,
+		"lon": 4.320273,
+		"description": 0,
+		"problem": 0,
+		"guid": "7e4d46033be24548b1a30908d822b68b.16",
+		"park": 0,
+		"dateAdded": "2020-06-13"
+	},
+	{
+		"keys": [
+			"route n"
+		],
+		"name": "Route Netwerk Haaglanden 82",
+		"region": "Rijswijk",
+		"lat": 52.018314,
+		"lon": 4.314642,
+		"description": 0,
+		"problem": 0,
+		"guid": "a434f14b1576427695660fa0b1491929.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"orange l",
+			"oranje l"
+		],
+		"name": "Orange Leaf Bridge",
+		"region": "Rijswijk",
+		"lat": 52.027753,
+		"lon": 4.306449,
+		"description": 0,
+		"problem": 0,
+		"guid": "a33814167f624d0f969e8e7a09cb9ea0.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"pointy gate"
+		],
+		"name": "Pointy Gate",
+		"region": "Pijnacker",
+		"lat": 52.01134,
+		"lon": 4.433409,
+		"description": "",
+		"problem": 0,
+		"guid": "3fa3a1d3709247bb92ac1ea6537e3536.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"laurierwilg"
+		],
+		"name": "Laurierwilg",
+		"region": "Den Haag",
+		"lat": 52.019783,
+		"lon": 4.305426,
+		"description": "",
+		"problem": 0,
+		"guid": "c8bc3d72982f4be5852f26bbd6b650ae.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"playgroud lijste"
+		],
+		"name": "Playgroud Lijsterbeslaan",
+		"region": "Rijswijk",
+		"lat": 52.047112,
+		"lon": 4.341635,
+		"description": "",
+		"problem": 0,
+		"guid": "58e590e3f0724eeaa6ff2acb7c9fdb1c.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"vitellina"
+		],
+		"name": "Vitellina",
+		"region": "Den Haag",
+		"lat": 52.019268,
+		"lon": 4.303935,
+		"description": "",
+		"problem": 0,
+		"guid": "56d4e0bc37b14dc1affcadacad4db45c.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"gibbsii"
+		],
+		"name": "Gibbsii",
+		"region": "Den Haag",
+		"lat": 52.020264,
+		"lon": 4.301815,
+		"description": "",
+		"problem": 0,
+		"guid": "348daaab7b0349178408ae10c9b4f954.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"es"
+		],
+		"name": "Es",
+		"region": "Den Haag",
+		"lat": 52.025002,
+		"lon": 4.301324,
+		"description": "",
+		"problem": 0,
+		"guid": "bdc0b338820f4e05a26941347dd6e42d.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"trapveldje schae"
+		],
+		"name": "Trapveldje Schaepmanlaan",
+		"region": "Pijnacker",
+		"lat": 52.026443,
+		"lon": 4.426891,
+		"description": "",
+		"problem": 0,
+		"guid": "7f77ad21c74848f9bc146b17429952d0.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"oude kraan van b"
+		],
+		"name": "Oude Kraan Van Blansjaar",
+		"region": "Westland",
+		"lat": 52.013334,
+		"lon": 4.296787,
+		"description": "",
+		"problem": 0,
+		"guid": "14666305059c4b44acb7c4fdf246c68f.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"zilveresdoorn \"p",
+			"zilveresdoorn p"
+		],
+		"name": "Zilveresdoorn \"Pyramidale\"",
+		"region": "Den Haag",
+		"lat": 52.019886,
+		"lon": 4.296489,
+		"description": "",
+		"problem": 0,
+		"guid": "0bf93201caa4416180b152aded50efe5.16",
+		"park": 0
+	},
+	{
+		"keys": [
+			"brugwachtershuis"
+		],
+		"name": "Brugwachtershuisje Op Windroos",
+		"region": "Leidschendam-Voorburg",
+		"lat": 52.056783,
+		"lon": 4.3479,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "b7e532dc37894340bb70e7e4607fed96.16"
+	},
+	{
+		"keys": [
+			"laak art allard"
+		],
+		"name": "Laak Art Allard Piersonlaan",
+		"region": "Den Haag",
+		"lat": 52.057349,
+		"lon": 4.326886,
+		"description": "",
+		"park": 0,
+		"problem": 0,
+		"guid": "f56189597f0b4b4682791c6eddf80b1d.16"
+	},
+	{
+		"keys": [
+			"valse christusdo",
+			"valse christusdoorn s",
+			"valse christusdoorn \"s"
+		],
+		"name": "Valse Christusdoorn \"Skyline\"",
+		"region": "Den Haag",
+		"lat": 52.020129,
+		"lon": 4.297225,
+		"description": "",
+		"park": 1,
+		"problem": 0,
+		"guid": "b95aacf155974a498c8b03004471dbe7.16"
+	},
+	{
+		"keys": [
+			"freerun parcours"
+		],
+		"name": "Freerun parcours Delfgauw Ruyven",
+		"region": "Oude Leede",
+		"lat": 51.989326,
+		"lon": 4.402484,
+		"description": "",
+		"park": 1,
+		"problem": 0,
+		"guid": "f0ad92cad07c4cadb6be399735f9990d.16"
+	}
+]

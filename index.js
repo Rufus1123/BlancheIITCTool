@@ -9,12 +9,15 @@ const DelftBounds = {
     max_lon: 4.4475827
 };
 
-var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2020-06-11.json"; 
+var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2020-09-20.json"; 
 var ingressLocations = require(iitcFile);
 var blancheStops = require('./data/Pokestops.json');
 var blancheGyms = require('./data/Gyms.json');
 var ingressGyms = Object.values(ingressLocations.gyms);
 var ingressPokestops = Object.values(ingressLocations.pokestops);
+
+ingressGyms = withinBounds(ingressGyms, DelftBounds);
+ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
 
 blancheGyms = removeSpacesFromNames(blancheGyms);
 blancheStops = removeSpacesFromNames(blancheStops);
@@ -23,8 +26,6 @@ ingressPokestops = removeSpacesFromNames(ingressPokestops);
 
 blancheStops = updateStopsToGyms(blancheStops, ingressGyms);
 
-ingressGyms = withinBounds(ingressGyms, DelftBounds);
-ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
 
 updateNameAndLocationOnGuid(ingressGyms, blancheGyms);
 updateNameAndLocationOnGuid(ingressPokestops, blancheStops);
@@ -197,7 +198,7 @@ function updateNameAndLocationOnGuid(ingress, blanche){
 function removeSpacesFromNames(list){
     return list.map(loc => {
         if (/\s\s/g.test(loc.name) || /\s$/g.test(loc.name)){
-            console.log(`${loc.guid} ${loc.name} (${loc.lat}, ${loc.lng})`);
+            console.log(`removed spaces: ${loc.guid} ${loc.name} (${loc.lat}, ${loc.lng})`);
         }
         loc.name = loc.name.replace(/\s+/g, " ").trim();
         return loc;
