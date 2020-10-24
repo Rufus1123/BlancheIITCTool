@@ -586,7 +586,8 @@
 		"lat": 51.989416,
 		"lon": 4.287536,
 		"description": "",
-		"problem": 0
+		"problem": 0,
+		"guid": "3f493b9381ec4c56a325906af6b91820.16"
 	},
 	{
 		"keys": [
@@ -7096,19 +7097,6 @@
 	},
 	{
 		"keys": [
-			"de bouws",
-			"bouwsteen"
-		],
-		"name": "De Bouwsteen (Building Block) Art",
-		"region": "Buitenhof",
-		"lat": 51.996367,
-		"lon": 4.343513,
-		"description": 0,
-		"problem": 0,
-		"guid": "9ef9dcb6db6d43959311d88b29e76baa.16"
-	},
-	{
-		"keys": [
 			"wooden a"
 		],
 		"name": "Wooden Art",
@@ -8385,18 +8373,6 @@
 	},
 	{
 		"keys": [
-			"info cube"
-		],
-		"name": "Info Cube",
-		"region": "Centrum",
-		"lat": 52.012671,
-		"lon": 4.362572,
-		"description": 0,
-		"problem": 0,
-		"guid": "d1a604a022224859b22b3b2d93f8b09b.16"
-	},
-	{
-		"keys": [
 			"roodg"
 		],
 		"name": "Roodgroene Speeltuin",
@@ -9659,7 +9635,7 @@
 	},
 	{
 		"keys": [
-			"insect"
+			"insectento"
 		],
 		"name": "Insectentoren",
 		"region": "Delftse Hout",
@@ -18787,18 +18763,6 @@
 	},
 	{
 		"keys": [
-			"art piece near d"
-		],
-		"name": "Art Piece Near Don Bosco",
-		"region": "Rijswijk",
-		"lat": 52.051907,
-		"lon": 4.323352,
-		"description": "",
-		"problem": 0,
-		"guid": "e3253032e8a74254b898f1ca2a759cbe.16"
-	},
-	{
-		"keys": [
 			"vredenburgweg br"
 		],
 		"name": "Vredenburgweg Bridge art",
@@ -19091,8 +19055,7 @@
 	},
 	{
 		"keys": [
-			"basketbalveldj",
-			"basketbalven"
+			"basketbalveldje"
 		],
 		"name": "Basketbalveldje",
 		"region": "Rijswijk",
@@ -21686,18 +21649,6 @@
 	},
 	{
 		"keys": [
-			"basketbalveld ca"
-		],
-		"name": "Basketbalveld Camelot",
-		"region": "TU Wijk",
-		"lat": 51.999823,
-		"lon": 4.380071,
-		"description": "",
-		"problem": 0,
-		"guid": "9008e405c17947a69d0d4cf5f1b78c45.16"
-	},
-	{
-		"keys": [
 			"honing hilton"
 		],
 		"name": "Honing Hilton",
@@ -21719,5 +21670,113 @@
 		"description": "",
 		"problem": 0,
 		"guid": "eedc1d812f2e403391de6d214af2f8dd.16"
+	},
+	{
+		"keys": [
+			"minibieb schiewe"
+		],
+		"name": "Minibieb Schieweg",
+		"region": "Tanthof Oost",
+		"lat": 51.981511,
+		"lon": 4.378361,
+		"description": "",
+		"problem": 0,
+		"guid": "816c573a19304bc8a61634e0625de189.16"
+	},
+	{
+		"keys": [
+			"dopie grafitti k"
+		],
+		"name": "Dopie grafitti kunstwerk",
+		"region": "Hof van Delft",
+		"lat": 52.009236,
+		"lon": 4.341444,
+		"description": "",
+		"problem": 0,
+		"guid": "23ece8b062774b86acece08a2a5c4b6d.16"
+	},
+	{
+		"keys": [
+			"het blauwe huisj"
+		],
+		"name": "Het blauwe huisje",
+		"region": "Schipluiden",
+		"lat": 51.975012,
+		"lon": 4.318724,
+		"description": "",
+		"problem": 0,
+		"guid": "7464d1236781450ab182e80ce2689242.16"
+	},
+	{
+		"keys": [
+			"speeleil"
+		],
+		"name": "Speeleiland",
+		"region": "Rijswijk",
+		"lat": 52.02184,
+		"lon": 4.314953,
+		"description": "",
+		"problem": 0,
+		"guid": "28d51889a0894812b2c437e489aa795b.16"
+	},
+	{
+		"keys": [
+			"de paden op, de"
+		],
+		"name": "De paden op, de lanen in",
+		"region": "Tanthof Oost",
+		"lat": 51.982627,
+		"lon": 4.377367,
+		"description": "",
+		"problem": 0,
+		"guid": "9cdc8faf41ae43ad87368270266852af.16"
+	},
+	{
+		"keys": [
+			"insectenhotel ko"
+		],
+		"name": "Insectenhotel Kortenhoeve",
+		"region": "Voordijkshoorn",
+		"lat": 52.006201,
+		"lon": 4.324308,
+		"description": "",
+		"problem": 0,
+		"guid": "a3c3af7cca3f4ee8a602add285414237.16"
+	},
+	{
+		"keys": [
+			"vlek en co"
+		],
+		"name": "Vlek en Co",
+		"region": "Centrum",
+		"lat": 52.009331,
+		"lon": 4.361072,
+		"description": "",
+		"problem": 0,
+		"guid": "e26cd1103d1d467680a1f25a80a876f1.16"
+	},
+	{
+		"keys": [
+			"red de bij"
+		],
+		"name": "Red de bij!",
+		"region": "Oude Leede",
+		"lat": 51.980186,
+		"lon": 4.407521,
+		"description": "",
+		"problem": 0,
+		"guid": "2df3e4a0d8dd4d2e968da28d544cfbba.16"
+	},
+	{
+		"keys": [
+			"tiny forest scho"
+		],
+		"name": "Tiny Forest Schoemakerplantage",
+		"region": "TU Wijk",
+		"lat": 52.001099,
+		"lon": 4.381804,
+		"description": "",
+		"problem": 0,
+		"guid": "49293f7547ad4637ae4b6d4212c27e8e.16"
 	}
 ]

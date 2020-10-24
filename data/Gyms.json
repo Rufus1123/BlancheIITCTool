@@ -6048,5 +6048,23 @@
 		"park": 1,
 		"problem": 0,
 		"guid": "f0ad92cad07c4cadb6be399735f9990d.16"
+	},
+	{
+		"keys": [
+			"basketbalveld ca",
+			"basketbalveld",
+			"basketbalv",
+			"basketbal v",
+			"camelot"
+		],
+		"name": "Basketbalveld Camelot",
+		"region": "TU Wijk",
+		"lat": 51.999823,
+		"lon": 4.380071,
+		"description": "",
+		"problem": 0,
+		"guid": "9008e405c17947a69d0d4cf5f1b78c45.16",
+		"park": 0,
+		"dateAdded": "2020-10-22"
 	}
 ]
