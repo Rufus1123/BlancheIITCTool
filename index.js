@@ -9,7 +9,7 @@ const DelftBounds = {
     max_lon: 4.4475827
 };
 
-var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2021-02-03.json"; 
+var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2021-03-02.json"; 
 var ingressLocations = require(iitcFile);
 var blancheStops = require('./data/Pokestops.json');
 var blancheGyms = require('./data/Gyms.json');
@@ -22,6 +22,9 @@ var gymsdict = gyms.reduce((acc, curr) => { if(acc[curr.region]) {acc[curr.regio
 var ingressGyms = Object.values(ingressLocations.gyms);
 var ingressPokestops = Object.values(ingressLocations.pokestops);
 
+ingressGyms = withinBounds(ingressGyms, DelftBounds);
+ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
+
 blancheGyms = removeSpacesFromNames(blancheGyms);
 blancheStops = removeSpacesFromNames(blancheStops);
 ingressGyms = removeSpacesFromNames(ingressGyms);
@@ -29,9 +32,6 @@ ingressPokestops = removeSpacesFromNames(ingressPokestops);
 
 blancheStops = updateStopsToGyms(blancheStops, ingressGyms);
 
-
-ingressGyms = withinBounds(ingressGyms, DelftBounds);
-ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
 
 updateNameAndLocationOnGuid(ingressGyms, blancheGyms);
 updateNameAndLocationOnGuid(ingressPokestops, blancheStops);
@@ -121,7 +121,9 @@ function verifyKeyDoesNotMatchStartOfOtherLocation(loc, list){
     let incorrectKey = loc.keys.find(key => 
         // Make an exception when that key is already the full name of the location
         key != loc.name.toLowerCase() &&
-        !list.filter(otherLoc => otherLoc.name.toLowerCase().startsWith(key))
+        !list.filter(otherLoc => otherLoc.name.toLowerCase().startsWith(key) &&
+            // Exception when one of the locations is a gym
+            ((loc.park != undefined && otherLoc.park != undefined) || (loc.park == undefined && otherLoc.park == undefined)))
             .every(otherLoc => otherLoc.keys.includes(key)));
     if (incorrectKey){
         console.warn(`${loc.name} contains a key (\`${incorrectKey}\`) that is identical to the start of another location, however that location does not have that key.`);
