@@ -29,6 +29,7 @@ ingressPokestops = removeSpacesFromNames(ingressPokestops);
 
 blancheStops = updateStopsToGyms(blancheStops, ingressGyms);
 
+
 ingressGyms = withinBounds(ingressGyms, DelftBounds);
 ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
 
@@ -203,7 +204,7 @@ function updateNameAndLocationOnGuid(ingress, blanche){
 function removeSpacesFromNames(list){
     return list.map(loc => {
         if (/\s\s/g.test(loc.name) || /\s$/g.test(loc.name)){
-            console.log(`${loc.guid} ${loc.name} (${loc.lat}, ${loc.lng})`);
+            console.log(`removed spaces: ${loc.guid} ${loc.name} (${loc.lat}, ${loc.lng})`);
         }
         loc.name = loc.name.replace(/\s+/g, " ").trim();
         return loc;
