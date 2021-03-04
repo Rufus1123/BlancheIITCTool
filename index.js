@@ -9,10 +9,16 @@ const DelftBounds = {
     max_lon: 4.4475827
 };
 
-var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2020-06-11.json"; 
+var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2021-02-03.json"; 
 var ingressLocations = require(iitcFile);
 var blancheStops = require('./data/Pokestops.json');
 var blancheGyms = require('./data/Gyms.json');
+
+var regions = ["centrum", "hof van delft", "voordijkshoorn", "tu wijk", "voorhof", "buitenhof", "tanthof west", "tanthof oost", "delfgauw", "vrijenban", "delftse hout", "ruiven", "sion - haantje"]
+var gyms = blancheGyms.filter(g => g.description != "Bestaat niet meer" && regions.some( r => g.region && r == g.region.toLowerCase()));
+var gymsdict = gyms.reduce((acc, curr) => { if(acc[curr.region]) {acc[curr.region].push(curr.name);}else{acc[curr.region] = [curr.name];} return acc;}, {});
+
+
 var ingressGyms = Object.values(ingressLocations.gyms);
 var ingressPokestops = Object.values(ingressLocations.pokestops);
 
