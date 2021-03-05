@@ -44,10 +44,10 @@ addGuidPropertyWhenLocationMatches(ingressPokestops, blancheStops);
 
 var gymsBoth = inBoth(blancheGyms, ingressGyms);
 var gymsIngress = inFirstOnly(ingressGyms, blancheGyms);
-var gymsPogo = inSecondOnly(ingressGyms, blancheGyms);
+var gymsPogo = inSecondOnly(ingressGyms, withinBounds(blancheGyms, DelftBounds));
 var stopsBoth = inBoth(blancheStops, ingressPokestops);
 var stopsIngress = inFirstOnly(ingressPokestops, blancheStops); 
-var stopsPogo = inSecondOnly(ingressPokestops, blancheStops); 
+var stopsPogo = inSecondOnly(ingressPokestops, withinBounds(blancheStops, DelftBounds)); 
 
 console.log(`${gymsBoth.length} already pressent in Blanche gyms file!`);
 console.log(`${gymsIngress.length} missing in Blanche gyms file. Adding them now`);
@@ -139,7 +139,7 @@ function verifyContainsKeyWithoutSpecialCharacters(loc){
 
 function withinBounds(i, bounds){
     return i.filter(l => l.lat >= bounds.min_lat && l.lat <= bounds.max_lat &&
-        l.lng >= bounds.min_lon && l.lng <= bounds.max_lon);
+        ( (l.lng >= bounds.min_lon && l.lng <= bounds.max_lon) || (l.lon >= bounds.min_lon && l.lon <= bounds.max_lon) ));
 }
 
 function addGyms(gymsIngress){
