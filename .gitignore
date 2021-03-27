@@ -7,5 +7,6 @@ npm-debug.log
 *.dev
 .DS_Store
 package-lock.json
-
+.vs/
 data
+.vscode/launch.json

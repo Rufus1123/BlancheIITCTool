@@ -9,12 +9,21 @@ const DelftBounds = {
     max_lon: 4.4475827
 };
 
-var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2020-06-11.json"; 
+var iitcFile = process.argv[2] ? process.argv[2] : "./data/IITC-pogo_2021-03-02.json"; 
 var ingressLocations = require(iitcFile);
 var blancheStops = require('./data/Pokestops.json');
 var blancheGyms = require('./data/Gyms.json');
+
+var regions = ["centrum", "hof van delft", "voordijkshoorn", "tu wijk", "voorhof", "buitenhof", "tanthof west", "tanthof oost", "delfgauw", "vrijenban", "delftse hout", "ruiven", "sion - haantje"]
+var gyms = blancheGyms.filter(g => g.description != "Bestaat niet meer" && regions.some( r => g.region && r == g.region.toLowerCase()));
+var gymsdict = gyms.reduce((acc, curr) => { if(acc[curr.region]) {acc[curr.region].push(curr.name);}else{acc[curr.region] = [curr.name];} return acc;}, {});
+
+
 var ingressGyms = Object.values(ingressLocations.gyms);
 var ingressPokestops = Object.values(ingressLocations.pokestops);
+
+ingressGyms = withinBounds(ingressGyms, DelftBounds);
+ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
 
 blancheGyms = removeSpacesFromNames(blancheGyms);
 blancheStops = removeSpacesFromNames(blancheStops);
@@ -23,8 +32,6 @@ ingressPokestops = removeSpacesFromNames(ingressPokestops);
 
 blancheStops = updateStopsToGyms(blancheStops, ingressGyms);
 
-ingressGyms = withinBounds(ingressGyms, DelftBounds);
-ingressPokestops = withinBounds(ingressPokestops, DelftBounds);
 
 updateNameAndLocationOnGuid(ingressGyms, blancheGyms);
 updateNameAndLocationOnGuid(ingressPokestops, blancheStops);
@@ -37,10 +44,10 @@ addGuidPropertyWhenLocationMatches(ingressPokestops, blancheStops);
 
 var gymsBoth = inBoth(blancheGyms, ingressGyms);
 var gymsIngress = inFirstOnly(ingressGyms, blancheGyms);
-var gymsPogo = inSecondOnly(ingressGyms, blancheGyms);
+var gymsPogo = inSecondOnly(ingressGyms, withinBounds(blancheGyms, DelftBounds));
 var stopsBoth = inBoth(blancheStops, ingressPokestops);
 var stopsIngress = inFirstOnly(ingressPokestops, blancheStops); 
-var stopsPogo = inSecondOnly(ingressPokestops, blancheStops); 
+var stopsPogo = inSecondOnly(ingressPokestops, withinBounds(blancheStops, DelftBounds)); 
 
 console.log(`${gymsBoth.length} already pressent in Blanche gyms file!`);
 console.log(`${gymsIngress.length} missing in Blanche gyms file. Adding them now`);
@@ -114,7 +121,9 @@ function verifyKeyDoesNotMatchStartOfOtherLocation(loc, list){
     let incorrectKey = loc.keys.find(key => 
         // Make an exception when that key is already the full name of the location
         key != loc.name.toLowerCase() &&
-        !list.filter(otherLoc => otherLoc.name.toLowerCase().startsWith(key))
+        !list.filter(otherLoc => otherLoc.name.toLowerCase().startsWith(key) &&
+            // Exception when one of the locations is a gym
+            ((loc.park != undefined && otherLoc.park != undefined) || (loc.park == undefined && otherLoc.park == undefined)))
             .every(otherLoc => otherLoc.keys.includes(key)));
     if (incorrectKey){
         console.warn(`${loc.name} contains a key (\`${incorrectKey}\`) that is identical to the start of another location, however that location does not have that key.`);
@@ -130,7 +139,7 @@ function verifyContainsKeyWithoutSpecialCharacters(loc){
 
 function withinBounds(i, bounds){
     return i.filter(l => l.lat >= bounds.min_lat && l.lat <= bounds.max_lat &&
-        l.lng >= bounds.min_lon && l.lng <= bounds.max_lon);
+        ( (l.lng >= bounds.min_lon && l.lng <= bounds.max_lon) || (l.lon >= bounds.min_lon && l.lon <= bounds.max_lon) ));
 }
 
 function addGyms(gymsIngress){
@@ -197,7 +206,7 @@ function updateNameAndLocationOnGuid(ingress, blanche){
 function removeSpacesFromNames(list){
     return list.map(loc => {
         if (/\s\s/g.test(loc.name) || /\s$/g.test(loc.name)){
-            console.log(`${loc.guid} ${loc.name} (${loc.lat}, ${loc.lng})`);
+            console.log(`removed spaces: ${loc.guid} ${loc.name} (${loc.lat}, ${loc.lng})`);
         }
         loc.name = loc.name.replace(/\s+/g, " ").trim();
         return loc;
