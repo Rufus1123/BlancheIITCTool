@@ -53,8 +53,8 @@ console.log(stopsIngress.map(x => `${x.name} (${x.lat}, ${x.lng})`).join("\n"));
 let stopsOutput = addStops(stopsIngress);
 
 // Sorting
-gymsOutput = gymsOutput.sort((a, b) => a.name.localeCompare(b));
-stopsOutput = stopsOutput.sort((a, b) => a.name.localeCompare(b));
+gymsOutput = gymsOutput.sort((a, b) => a.name.localeCompare(b.name));
+stopsOutput = stopsOutput.sort((a, b) => a.name.localeCompare(b.name));
 
 // warnings:
 console.log(gymsPogo.length + " gyms in Gyms.json that are not present in Ingress data. Listing them now:");
@@ -235,12 +235,12 @@ function updateLocationMatchOnName(list1, list2){
         if (matchesOnName.length > 0)
         {
             var nearestMatch = getNearestLocation(matchesOnName, loc2);
-            nearestMatch = fixNameCasing(nearestMatch, loc2);
 
             if( Math.abs(nearestMatch.lat - loc2.lat) > 0.002 || Math.abs(nearestMatch.lng - loc2.lon) > 0.002){
                 console.log(`Skipping ${loc2.name}, because the ingress location is not close to pogo location`);
             }
             else{
+                nearestMatch = fixNameCasing(nearestMatch, loc2);
                 loc2.lat = nearestMatch.lat;
                 loc2.lon = nearestMatch.lng;
             }
@@ -354,8 +354,6 @@ function updateRegionUsingKMLFile(file, layer){
             console.warn(`Region for ${loc.name} (${loc.lat}, ${loc.lon}) could not be determined.`);
         }
 
-
-        
         if(loc.dateAdded && (
         loc.region != "Centrum" &&
         loc.region != "Vrijenban" &&
